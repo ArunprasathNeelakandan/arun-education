@@ -90,7 +90,7 @@ console.log(`${import.meta.env.BASE_URL}university-${randomNumber}.jpg`)
                 <button>Meet a counsellor</button>
 
                 <img
-                  src="https://images.ctfassets.net/8bbwomjfix8m/6GJS3QSd7zxJA1ea5U7tG0/56c6c4b827386163fefe5f291234d9c4/Meet_counsellor_promo.png?fit=fill&w=360&q=80&fm=jpg"
+                  src="./ssss.png"
                   alt=""
                 />
               </div>

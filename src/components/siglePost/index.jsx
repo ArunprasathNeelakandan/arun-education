@@ -220,7 +220,7 @@ const SinglePost = () => {
                     <p>Can't decide on the university and course? Our experienced counsellors are here to guide and support you through each stage of your study abroad journey. Reach out today!</p>
                     <button>Meet a counsellor</button>
 
-                    <img src="https://images.ctfassets.net/8bbwomjfix8m/6GJS3QSd7zxJA1ea5U7tG0/56c6c4b827386163fefe5f291234d9c4/Meet_counsellor_promo.png?fit=fill&w=360&q=80&fm=jpg" alt="" />
+                    <img src="/ssss.png" alt="" />
                   </div>
               </div>
             </div>
