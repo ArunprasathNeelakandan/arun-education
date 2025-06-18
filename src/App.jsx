@@ -8,10 +8,7 @@ import SinglePost from "./components/siglePost";
 import CounsellingPage from "./components/counselling";
 import Terms from "./components/terms";
 import Privacy from "./components/privacy";
-import Admin from "./components/admin";
-import AdminLogin from "./components/adminLogin";
-import ProductedRoute from "./components/productedRoute";
-import Loading from "./components/Loading";
+
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
@@ -30,9 +27,7 @@ function App() {
           <Route path="/counselling" element={<CounsellingPage/>} />
           <Route path="/terms" element={<Terms/>}/>
           <Route path="/privacy" element={<Privacy/>} />
-          <Route path="/admin" element={<ProductedRoute><Admin/></ProductedRoute>}/>
-          <Route path="/login" element={<AdminLogin/>}/>
-          <Route path="/load" element={<Loading/>}/>
+          
 
         </Routes>
       </BrowserRouter>
