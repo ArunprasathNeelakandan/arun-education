@@ -1,0 +1,12 @@
+footer {
+    background-color: black;
+    color: #fff;
+}
+
+footer hr {
+    margin-block: 20px;
+}
+
+footer .bottom-container .flex-container {
+    gap: 20px;
+}

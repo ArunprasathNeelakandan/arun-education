@@ -1,0 +1,283 @@
+[
+    {
+      "title": "Cognitive Science Grant - University of Sydney",
+      "destination": "Australia",
+      "studyLevel": "Doctorate",
+      "Funding type": "Grant",
+      "Value of award": "13452 AUD"
+    },
+    {
+      "title": "Data Science Studentship - University of British Columbia",
+      "destination": "Canada",
+      "studyLevel": "Masters Degree",
+      "Funding type": "Studentship",
+      "Value of award": "12285 CAD"
+    },
+    {
+      "title": "Environmental Engineering Scholarship - University College Dublin",
+      "destination": "Ireland",
+      "studyLevel": "Undergraduate",
+      "Funding type": "Scholarship",
+      "Value of award": "21873 EUR"
+    },
+    {
+      "title": "Economics Fee waiver/discount - University of Otago",
+      "destination": "New Zealand",
+      "studyLevel": "Diploma",
+      "Funding type": "Fee waiver/discount",
+      "Value of award": "14300 NZD"
+    },
+    {
+      "title": "Visual Arts Bursary - University of Oxford",
+      "destination": "United Kingdom",
+      "studyLevel": "Pre-Degree & Vocational",
+      "Funding type": "Bursary",
+      "Value of award": "7850 GBP"
+    },
+    {
+      "title": "Law Fully funded - Stanford University",
+      "destination": "United States",
+      "studyLevel": "Masters Degree",
+      "Funding type": "Fully funded",
+      "Value of award": "25000 USD"
+    },
+    {
+      "title": "Biotechnology Scholarship - University of Melbourne",
+      "destination": "Australia",
+      "studyLevel": "Doctorate",
+      "Funding type": "Scholarship",
+      "Value of award": "20300 AUD"
+    },
+    {
+      "title": "Public Health Bursary - University of Toronto",
+      "destination": "Canada",
+      "studyLevel": "University Preparation",
+      "Funding type": "Bursary",
+      "Value of award": "11850 CAD"
+    },
+    {
+      "title": "Social Work Grant - Trinity College Dublin",
+      "destination": "Ireland",
+      "studyLevel": "Doctorate",
+      "Funding type": "Grant",
+      "Value of award": "14600 EUR"
+    },
+    {
+      "title": "Literary Studies Partially funded - University of Auckland",
+      "destination": "New Zealand",
+      "studyLevel": "Undergraduate",
+      "Funding type": "Partially funded",
+      "Value of award": "19800 NZD"
+    },
+    {
+      "title": "Astrophysics Studentship - University of Cambridge",
+      "destination": "United Kingdom",
+      "studyLevel": "Doctorate",
+      "Funding type": "Studentship",
+      "Value of award": "26400 GBP"
+    },
+    {
+      "title": "Marine Biology Grant - Harvard University",
+      "destination": "United States",
+      "studyLevel": "Masters Degree",
+      "Funding type": "Grant",
+      "Value of award": "18890 USD"
+    },
+    {
+      "title": "Machine Learning Fee waiver/discount - Australian National University",
+      "destination": "Australia",
+      "studyLevel": "School",
+      "Funding type": "Fee waiver/discount",
+      "Value of award": "9100 AUD"
+    },
+    {
+      "title": "Visual Arts Bursary - McGill University",
+      "destination": "Canada",
+      "studyLevel": "Vocational (VET)",
+      "Funding type": "Bursary",
+      "Value of award": "7300 CAD"
+    },
+    {
+      "title": "Global Politics Fully funded - University College Dublin",
+      "destination": "Ireland",
+      "studyLevel": "Masters Degree",
+      "Funding type": "Fully funded",
+      "Value of award": "30000 EUR"
+    },
+    {
+      "title": "Public Health Scholarship - University of Otago",
+      "destination": "New Zealand",
+      "studyLevel": "Foundation",
+      "Funding type": "Scholarship",
+      "Value of award": "16200 NZD"
+    },
+    {
+      "title": "Biotechnology Grant - Imperial College London",
+      "destination": "United Kingdom",
+      "studyLevel": "University Preparation",
+      "Funding type": "Grant",
+      "Value of award": "13100 GBP"
+    },
+    {
+      "title": "Cognitive Science Studentship - MIT",
+      "destination": "United States",
+      "studyLevel": "Doctorate",
+      "Funding type": "Studentship",
+      "Value of award": "28900 USD"
+    },
+    {
+      "title": "Social Work Partially funded - University of Melbourne",
+      "destination": "Australia",
+      "studyLevel": "Undergraduate",
+      "Funding type": "Partially funded",
+      "Value of award": "15200 AUD"
+    },
+    {
+      "title": "Astrophysics Grant - University of British Columbia",
+      "destination": "Canada",
+      "studyLevel": "Doctorate",
+      "Funding type": "Grant",
+      "Value of award": "18400 CAD"
+    },
+    {
+        "title": "Literary Studies Scholarship - University of Toronto",
+        "destination": "Canada",
+        "studyLevel": "Masters Degree",
+        "Funding type": "Scholarship",
+        "Value of award": "14100 CAD"
+      },
+      {
+        "title": "Global Politics Bursary - Trinity College Dublin",
+        "destination": "Ireland",
+        "studyLevel": "Diploma",
+        "Funding type": "Bursary",
+        "Value of award": "8700 EUR"
+      },
+      {
+        "title": "Machine Learning Partially funded - University of Auckland",
+        "destination": "New Zealand",
+        "studyLevel": "Undergraduate",
+        "Funding type": "Partially funded",
+        "Value of award": "21400 NZD"
+      },
+      {
+        "title": "Ancient Philosophy Studentship - University of Oxford",
+        "destination": "United Kingdom",
+        "studyLevel": "Doctorate",
+        "Funding type": "Studentship",
+        "Value of award": "29100 GBP"
+      },
+      {
+        "title": "Marine Biology Grant - Stanford University",
+        "destination": "United States",
+        "studyLevel": "Masters Degree",
+        "Funding type": "Grant",
+        "Value of award": "13400 USD"
+      },
+      {
+        "title": "Economics Bursary - University of Sydney",
+        "destination": "Australia",
+        "studyLevel": "Foundation",
+        "Funding type": "Bursary",
+        "Value of award": "9800 AUD"
+      },
+      {
+        "title": "Social Work Fully funded - University of British Columbia",
+        "destination": "Canada",
+        "studyLevel": "Pre-Degree & Vocational",
+        "Funding type": "Fully funded",
+        "Value of award": "24000 CAD"
+      },
+      {
+        "title": "Visual Arts Grant - University College Dublin",
+        "destination": "Ireland",
+        "studyLevel": "Vocational (VET)",
+        "Funding type": "Grant",
+        "Value of award": "6800 EUR"
+      },
+      {
+        "title": "Biotechnology Scholarship - University of Otago",
+        "destination": "New Zealand",
+        "studyLevel": "University Preparation",
+        "Funding type": "Scholarship",
+        "Value of award": "19500 NZD"
+      },
+      {
+        "title": "Public Health Fee waiver/discount - University of Cambridge",
+        "destination": "United Kingdom",
+        "studyLevel": "Undergraduate",
+        "Funding type": "Fee waiver/discount",
+        "Value of award": "10300 GBP"
+      },
+      {
+        "title": "Global Politics Grant - Harvard University",
+        "destination": "United States",
+        "studyLevel": "Doctorate",
+        "Funding type": "Grant",
+        "Value of award": "21800 USD"
+      },
+      {
+        "title": "Astrophysics Scholarship - University of Melbourne",
+        "destination": "Australia",
+        "studyLevel": "Masters Degree",
+        "Funding type": "Scholarship",
+        "Value of award": "17300 AUD"
+      },
+      {
+        "title": "Environmental Engineering Studentship - McGill University",
+        "destination": "Canada",
+        "studyLevel": "Diploma",
+        "Funding type": "Studentship",
+        "Value of award": "11100 CAD"
+      },
+      {
+        "title": "Musicology Bursary - Trinity College Dublin",
+        "destination": "Ireland",
+        "studyLevel": "University Preparation",
+        "Funding type": "Bursary",
+        "Value of award": "5600 EUR"
+      },
+      {
+        "title": "Cognitive Science Fully funded - University of Otago",
+        "destination": "New Zealand",
+        "studyLevel": "Foundation",
+        "Funding type": "Fully funded",
+        "Value of award": "21000 NZD"
+      },
+      {
+        "title": "Economics Grant - Imperial College London",
+        "destination": "United Kingdom",
+        "studyLevel": "Masters Degree",
+        "Funding type": "Grant",
+        "Value of award": "12200 GBP"
+      },
+      {
+        "title": "Machine Learning Scholarship - MIT",
+        "destination": "United States",
+        "studyLevel": "Undergraduate",
+        "Funding type": "Scholarship",
+        "Value of award": "14700 USD"
+      },
+      {
+        "title": "Social Work Fee waiver/discount - Australian National University",
+        "destination": "Australia",
+        "studyLevel": "School",
+        "Funding type": "Fee waiver/discount",
+        "Value of award": "8700 AUD"
+      },
+      {
+        "title": "Marine Biology Bursary - McGill University",
+        "destination": "Canada",
+        "studyLevel": "Doctorate",
+        "Funding type": "Bursary",
+        "Value of award": "9500 CAD"
+      },
+      {
+        "title": "Law Studentship - Trinity College Dublin",
+        "destination": "Ireland",
+        "studyLevel": "University Preparation",
+        "Funding type": "Studentship",
+        "Value of award": "9900 EUR"
+      }
+  ]
+  

@@ -1,0 +1,79 @@
+.contact-bg {
+    background-color: #feedb5;
+}
+
+.contact-bg .sub-cart-1 {
+    width: calc(60% - 20px );
+}
+.contact-bg .sub-cart-2 {
+    position: relative;
+    background-image: url(/contact-img.png);
+    background-size: cover;
+    background-position: 60% 0%;
+    width: 40%;
+}
+
+
+.contact-bg input, .contact-bg select {
+    border: 1px solid;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.contact-bg form .input-cart {
+    width: 100%;
+    
+}
+
+.contact-bg form  option:hover{
+    
+}
+
+.terms-container input, .terms-container label{
+    display: inline;
+    width: fit-content;
+}
+
+.terms-container input {
+    margin-right: 20px;
+}
+
+
+@media screen and (max-width: 992px) {
+    .input-flex {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .contact-bg .sub-cart-1 {
+        width: calc(50% - 20px);
+    }
+
+    .contact-bg .sub-cart-2 {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .contact-bg .sub-cart-2 {
+        display: none;
+    }
+    .contact-bg .sub-cart-1 {
+        width: calc(100%);
+    }
+
+    .input-flex {
+        flex-direction: row;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .input-flex {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+
+

@@ -1,0 +1,5253 @@
+
+[
+  {
+    "id": "1",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Business",
+    "university": "Swanson LLC University",
+    "qualification": "Doctorate Degree",
+    "location": "South Christian",
+    "fees": "NZD26942 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "21 January 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "South Christian"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Swanson LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-business"
+  },
+  {
+    "id": "2",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Business",
+    "university": "Campos-Garcia University",
+    "qualification": "Doctorate Degree",
+    "location": "Samuelland",
+    "fees": "USD24683 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "12 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Samuelland"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Campos-Garcia University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-business"
+  },
+  {
+    "id": "3",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Teaching and Education",
+    "university": "Allen, Ramos and Taylor University",
+    "qualification": "Doctorate Degree",
+    "location": "North Daniel",
+    "fees": "NZD60789 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "4 November 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "North Daniel"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Allen, Ramos and Taylor University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-teaching-and-education"
+  },
+  {
+    "id": "4",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Business",
+    "university": "Evans and Sons University",
+    "qualification": "Bachelor Degree",
+    "location": "Wayneborough",
+    "fees": "EUR35754 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Wayneborough"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Evans and Sons University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-business"
+  },
+  {
+    "id": "5",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Engineering",
+    "university": "Jones, Walton and Gaines University",
+    "qualification": "Doctorate Degree",
+    "location": "South Leslieberg",
+    "fees": "CAD27548 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "12 January 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "South Leslieberg"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jones, Walton and Gaines University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-engineering"
+  },
+  {
+    "id": "6",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Health and Medicine",
+    "university": "Sosa Group University",
+    "qualification": "Master Degree",
+    "location": "East Carriechester",
+    "fees": "EUR44251 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "17 March 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "East Carriechester"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sosa Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "7",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Engineering",
+    "university": "Pena-Vang University",
+    "qualification": "Bachelor Degree",
+    "location": "North Tonyaton",
+    "fees": "EUR69936 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "17 July 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "North Tonyaton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Pena-Vang University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-engineering"
+  },
+  {
+    "id": "8",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Business",
+    "university": "Page, Brown and Hall University",
+    "qualification": "Bachelor Degree",
+    "location": "Floresborough",
+    "fees": "USD56967 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "5 January 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Floresborough"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Page, Brown and Hall University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-business"
+  },
+  {
+    "id": "9",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Business",
+    "university": "Gonzales-Brennan University",
+    "qualification": "Doctorate Degree",
+    "location": "Hesterburgh",
+    "fees": "NZD68661 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "22 March 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Hesterburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Gonzales-Brennan University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-business"
+  },
+  {
+    "id": "10",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Wilson, King and Collins University",
+    "qualification": "Bachelor Degree",
+    "location": "Ronaldmouth",
+    "fees": "NZD67407 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "19 July 2025",
+    "entryScore": "7.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Ronaldmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wilson, King and Collins University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "11",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Health Sciences",
+    "university": "Paul-Patterson University",
+    "qualification": "Master Degree",
+    "location": "South Barryfurt",
+    "fees": "AUD61869 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "19 November 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "South Barryfurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Paul-Patterson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-health-sciences"
+  },
+  {
+    "id": "12",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Business",
+    "university": "Brooks, Alvarez and Randall University",
+    "qualification": "Doctorate Degree",
+    "location": "Matthewburgh",
+    "fees": "USD33498 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "4 March 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Matthewburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Brooks, Alvarez and Randall University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-business"
+  },
+  {
+    "id": "13",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Yang, Thompson and Nicholson University",
+    "qualification": "Bachelor Degree",
+    "location": "Lake Michael",
+    "fees": "USD31452 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "14 January 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Lake Michael"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Yang, Thompson and Nicholson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "14",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health Sciences",
+    "university": "Garrett-Dorsey University",
+    "qualification": "Bachelor Degree",
+    "location": "South Andreaburgh",
+    "fees": "NZD68770 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "9 July 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "South Andreaburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Garrett-Dorsey University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-sciences"
+  },
+  {
+    "id": "15",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Australia",
+    "title": "Bachelor of Health Sciences",
+    "university": "Mueller LLC University",
+    "qualification": "Bachelor Degree",
+    "location": "West Vincentport",
+    "fees": "AUD61988 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "1 November 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "West Vincentport"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mueller LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-undergraduate-health-sciences"
+  },
+  {
+    "id": "16",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Health Sciences",
+    "university": "Hartman Inc University",
+    "qualification": "Bachelor Degree",
+    "location": "South Stephen",
+    "fees": "GBP45541 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "17 January 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "South Stephen"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hartman Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-health-sciences"
+  },
+  {
+    "id": "17",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Engineering",
+    "university": "Guerrero-Mitchell University",
+    "qualification": "Doctorate Degree",
+    "location": "Rileymouth",
+    "fees": "USD66398 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "19 March 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Rileymouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Guerrero-Mitchell University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-engineering"
+  },
+  {
+    "id": "18",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Pierce, Miller and Burns University",
+    "qualification": "Bachelor Degree",
+    "location": "Alexisview",
+    "fees": "EUR23727 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "13 January 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Alexisview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Pierce, Miller and Burns University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-teaching-and-education"
+  },
+  {
+    "id": "19",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Business",
+    "university": "Francis Group University",
+    "qualification": "Doctorate Degree",
+    "location": "Port Christinastad",
+    "fees": "CAD50136 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "8 January 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Port Christinastad"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Francis Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-business"
+  },
+  {
+    "id": "20",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "Ireland",
+    "title": "Doctor of Engineering",
+    "university": "Dixon, Greene and Mays University",
+    "qualification": "Doctorate Degree",
+    "location": "Port Bryan",
+    "fees": "EUR44777 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "4 November 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Port Bryan"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Dixon, Greene and Mays University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-doctorate-engineering"
+  },
+  {
+    "id": "21",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "Australia",
+    "title": "Bachelor of Business",
+    "university": "Taylor, Wise and Thomas University",
+    "qualification": "Bachelor Degree",
+    "location": "Danielfurt",
+    "fees": "AUD64185 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "15 July 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Danielfurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Taylor, Wise and Thomas University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-undergraduate-business"
+  },
+  {
+    "id": "22",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Business",
+    "university": "Bean-Tanner University",
+    "qualification": "Master Degree",
+    "location": "Stevenborough",
+    "fees": "AUD31561 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "25 November 2025",
+    "entryScore": "7.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Stevenborough"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Bean-Tanner University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-business"
+  },
+  {
+    "id": "23",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Health and Medicine",
+    "university": "Perez, Stephens and Carroll University",
+    "qualification": "Doctorate Degree",
+    "location": "Jonesland",
+    "fees": "AUD65675 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "4 January 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Jonesland"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Perez, Stephens and Carroll University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-health-and-medicine"
+  },
+  {
+    "id": "24",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health Sciences",
+    "university": "Walter-Knox University",
+    "qualification": "Bachelor Degree",
+    "location": "Brooksshire",
+    "fees": "NZD61030 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "20 January 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Brooksshire"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Walter-Knox University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-sciences"
+  },
+  {
+    "id": "25",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health Sciences",
+    "university": "Smith-Kennedy University",
+    "qualification": "Bachelor Degree",
+    "location": "East Charles",
+    "fees": "NZD68467 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "20 July 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "East Charles"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Smith-Kennedy University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-sciences"
+  },
+  {
+    "id": "26",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Engineering",
+    "university": "Watson, Wells and Cummings University",
+    "qualification": "Master Degree",
+    "location": "New Karen",
+    "fees": "GBP63994 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "New Karen"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Watson, Wells and Cummings University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-engineering"
+  },
+  {
+    "id": "27",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "United Kingdom",
+    "title": "Doctor of Health Sciences",
+    "university": "Sellers, Houston and Norton University",
+    "qualification": "Doctorate Degree",
+    "location": "New Thomaschester",
+    "fees": "GBP23689 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "20 July 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "New Thomaschester"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sellers, Houston and Norton University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-doctorate-health-sciences"
+  },
+  {
+    "id": "28",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Health Sciences",
+    "university": "Caldwell, Snyder and Clark University",
+    "qualification": "Master Degree",
+    "location": "New Tracyfort",
+    "fees": "EUR60594 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "8 November 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "New Tracyfort"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Caldwell, Snyder and Clark University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-health-sciences"
+  },
+  {
+    "id": "29",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Engineering",
+    "university": "Hicks, Gonzalez and Thompson University",
+    "qualification": "Bachelor Degree",
+    "location": "Lake Geraldstad",
+    "fees": "USD31469 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "25 January 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Lake Geraldstad"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hicks, Gonzalez and Thompson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-engineering"
+  },
+  {
+    "id": "30",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "Ireland",
+    "title": "Doctor of Health Sciences",
+    "university": "Nelson-Diaz University",
+    "qualification": "Doctorate Degree",
+    "location": "Elaineburgh",
+    "fees": "EUR20303 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "19 March 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Elaineburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Nelson-Diaz University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-doctorate-health-sciences"
+  },
+  {
+    "id": "31",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Health and Medicine",
+    "university": "Ortiz-Hickman University",
+    "qualification": "Doctorate Degree",
+    "location": "South Samanthashire",
+    "fees": "CAD64203 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "16 January 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "South Samanthashire"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Ortiz-Hickman University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-health-and-medicine"
+  },
+  {
+    "id": "32",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Engineering",
+    "university": "Mendoza, Thompson and Solis University",
+    "qualification": "Doctorate Degree",
+    "location": "Michaelview",
+    "fees": "NZD29517 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "22 March 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Michaelview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mendoza, Thompson and Solis University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-engineering"
+  },
+  {
+    "id": "33",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Health Sciences",
+    "university": "Rodriguez and Sons University",
+    "qualification": "Doctorate Degree",
+    "location": "East Denisemouth",
+    "fees": "CAD45331 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "8 July 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "East Denisemouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Rodriguez and Sons University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-health-sciences"
+  },
+  {
+    "id": "34",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Teaching and Education",
+    "university": "Schmidt Inc University",
+    "qualification": "Doctorate Degree",
+    "location": "Reedhaven",
+    "fees": "AUD36092 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "18 July 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Reedhaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Schmidt Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-teaching-and-education"
+  },
+  {
+    "id": "35",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Engineering",
+    "university": "Beasley, Mccall and Schmidt University",
+    "qualification": "Doctorate Degree",
+    "location": "Katieborough",
+    "fees": "CAD47008 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "10 July 2025",
+    "entryScore": "6.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Katieborough"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Beasley, Mccall and Schmidt University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-engineering"
+  },
+  {
+    "id": "36",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Business",
+    "university": "Mata-Jackson University",
+    "qualification": "Bachelor Degree",
+    "location": "Wandaside",
+    "fees": "NZD33916 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Wandaside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mata-Jackson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-business"
+  },
+  {
+    "id": "37",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Reyes-Castillo University",
+    "qualification": "Bachelor Degree",
+    "location": "Port James",
+    "fees": "EUR47741 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Port James"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Reyes-Castillo University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "38",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Health and Medicine",
+    "university": "Yu-Moore University",
+    "qualification": "Doctorate Degree",
+    "location": "Jamesshire",
+    "fees": "AUD35252 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "9 March 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Jamesshire"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Yu-Moore University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-health-and-medicine"
+  },
+  {
+    "id": "39",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "United Kingdom",
+    "title": "Doctor of Engineering",
+    "university": "Mitchell PLC University",
+    "qualification": "Doctorate Degree",
+    "location": "New Bryanstad",
+    "fees": "GBP23469 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "14 July 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "New Bryanstad"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mitchell PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-doctorate-engineering"
+  },
+  {
+    "id": "40",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Health Sciences",
+    "university": "Davidson Ltd University",
+    "qualification": "Bachelor Degree",
+    "location": "Pughbury",
+    "fees": "EUR59270 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "6 March 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Pughbury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Davidson Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-health-sciences"
+  },
+  {
+    "id": "41",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Health Sciences",
+    "university": "Levy-Sanchez University",
+    "qualification": "Doctorate Degree",
+    "location": "Lake Katelynmouth",
+    "fees": "NZD53116 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "14 March 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Lake Katelynmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Levy-Sanchez University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-health-sciences"
+  },
+  {
+    "id": "42",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Business",
+    "university": "Davis, Saunders and Bowers University",
+    "qualification": "Doctorate Degree",
+    "location": "East Angela",
+    "fees": "AUD48796 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "9 January 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "East Angela"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Davis, Saunders and Bowers University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-business"
+  },
+  {
+    "id": "43",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health and Medicine",
+    "university": "Mills, Davis and Zimmerman University",
+    "qualification": "Master Degree",
+    "location": "Melissatown",
+    "fees": "GBP21033 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "9 July 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Melissatown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mills, Davis and Zimmerman University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "44",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "New Zealand",
+    "title": "Master of Teaching and Education",
+    "university": "Williams, Mcintyre and Wright University",
+    "qualification": "Master Degree",
+    "location": "Lake Bradleybury",
+    "fees": "NZD63724 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "1 March 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Lake Bradleybury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Williams, Mcintyre and Wright University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "45",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Business",
+    "university": "Williams Group University",
+    "qualification": "Bachelor Degree",
+    "location": "West Christopherburgh",
+    "fees": "USD51161 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "1 July 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "West Christopherburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Williams Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-business"
+  },
+  {
+    "id": "46",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health and Medicine",
+    "university": "Robinson, Edwards and Guzman University",
+    "qualification": "Master Degree",
+    "location": "Lake Abigail",
+    "fees": "GBP24247 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "20 January 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Lake Abigail"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Robinson, Edwards and Guzman University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "47",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Teaching and Education",
+    "university": "Robbins Inc University",
+    "qualification": "Doctorate Degree",
+    "location": "East Leon",
+    "fees": "AUD34149 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "20 January 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "East Leon"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Robbins Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-teaching-and-education"
+  },
+  {
+    "id": "48",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Engineering",
+    "university": "Mcintyre LLC University",
+    "qualification": "Bachelor Degree",
+    "location": "Juarezton",
+    "fees": "GBP46667 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "13 November 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Juarezton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mcintyre LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-engineering"
+  },
+  {
+    "id": "49",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "Ireland",
+    "title": "Doctor of Engineering",
+    "university": "Stewart-Norton University",
+    "qualification": "Doctorate Degree",
+    "location": "East Tyler",
+    "fees": "EUR64620 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "17 January 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "East Tyler"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Stewart-Norton University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-doctorate-engineering"
+  },
+  {
+    "id": "50",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Engineering",
+    "university": "Rogers Inc University",
+    "qualification": "Bachelor Degree",
+    "location": "Leahview",
+    "fees": "NZD59033 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "6 November 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Leahview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Rogers Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-engineering"
+  },
+  {
+    "id": "51",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Teaching and Education",
+    "university": "Ramos-Sutton University",
+    "qualification": "Doctorate Degree",
+    "location": "Hughestown",
+    "fees": "CAD65221 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "20 November 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Hughestown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Ramos-Sutton University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-teaching-and-education"
+  },
+  {
+    "id": "52",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Teaching and Education",
+    "university": "Bautista Group University",
+    "qualification": "Doctorate Degree",
+    "location": "South Jamie",
+    "fees": "AUD44185 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "4 March 2025",
+    "entryScore": "7.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "South Jamie"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Bautista Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-teaching-and-education"
+  },
+  {
+    "id": "53",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Bowers-Johnson University",
+    "qualification": "Bachelor Degree",
+    "location": "South Wandaview",
+    "fees": "EUR60783 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "21 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "South Wandaview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Bowers-Johnson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-teaching-and-education"
+  },
+  {
+    "id": "54",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "Ireland",
+    "title": "Doctor of Teaching and Education",
+    "university": "Phillips, Carey and Daugherty University",
+    "qualification": "Doctorate Degree",
+    "location": "Jenniferburgh",
+    "fees": "EUR53059 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "5 November 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Jenniferburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Phillips, Carey and Daugherty University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-doctorate-teaching-and-education"
+  },
+  {
+    "id": "55",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Engineering",
+    "university": "Bowen and Sons University",
+    "qualification": "Doctorate Degree",
+    "location": "Knightburgh",
+    "fees": "USD63091 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "28 November 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Knightburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Bowen and Sons University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-engineering"
+  },
+  {
+    "id": "56",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Business",
+    "university": "Sanchez, Brooks and Brennan University",
+    "qualification": "Doctorate Degree",
+    "location": "Morganbury",
+    "fees": "AUD52965 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "20 March 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Morganbury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sanchez, Brooks and Brennan University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-business"
+  },
+  {
+    "id": "57",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Engineering",
+    "university": "Reynolds, Walton and Henry University",
+    "qualification": "Bachelor Degree",
+    "location": "Robertfort",
+    "fees": "EUR52347 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "17 January 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Robertfort"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Reynolds, Walton and Henry University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-engineering"
+  },
+  {
+    "id": "58",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Turner, Martinez and Walsh University",
+    "qualification": "Bachelor Degree",
+    "location": "Conleyport",
+    "fees": "GBP56362 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "16 November 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Conleyport"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Turner, Martinez and Walsh University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-teaching-and-education"
+  },
+  {
+    "id": "59",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Engineering",
+    "university": "George, Tran and Martin University",
+    "qualification": "Bachelor Degree",
+    "location": "Brownfurt",
+    "fees": "CAD60218 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "14 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Brownfurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for George, Tran and Martin University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-engineering"
+  },
+  {
+    "id": "60",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Engineering",
+    "university": "Mejia-Alexander University",
+    "qualification": "Bachelor Degree",
+    "location": "West Sandraport",
+    "fees": "CAD31401 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "24 November 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "West Sandraport"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mejia-Alexander University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-engineering"
+  },
+  {
+    "id": "61",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "Australia",
+    "title": "Bachelor of Business",
+    "university": "Wiley, Edwards and Reese University",
+    "qualification": "Bachelor Degree",
+    "location": "West Feliciatown",
+    "fees": "AUD29516 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "5 November 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "West Feliciatown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wiley, Edwards and Reese University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-undergraduate-business"
+  },
+  {
+    "id": "62",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Health and Medicine",
+    "university": "Castro Ltd University",
+    "qualification": "Doctorate Degree",
+    "location": "East Christopherhaven",
+    "fees": "USD26134 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "9 November 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "East Christopherhaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Castro Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-health-and-medicine"
+  },
+  {
+    "id": "63",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Health and Medicine",
+    "university": "Smith-Hicks University",
+    "qualification": "Master Degree",
+    "location": "Lake Thomas",
+    "fees": "EUR66237 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "5 January 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Lake Thomas"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Smith-Hicks University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "64",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Business",
+    "university": "Moore PLC University",
+    "qualification": "Bachelor Degree",
+    "location": "Port Jefftown",
+    "fees": "USD69143 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "14 July 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Port Jefftown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Moore PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-business"
+  },
+  {
+    "id": "65",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Hanna, Lee and Hubbard University",
+    "qualification": "Bachelor Degree",
+    "location": "South Brian",
+    "fees": "GBP44480 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "22 March 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "South Brian"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hanna, Lee and Hubbard University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-teaching-and-education"
+  },
+  {
+    "id": "66",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Business",
+    "university": "Lam, Jones and Nichols University",
+    "qualification": "Master Degree",
+    "location": "New Brenda",
+    "fees": "AUD60355 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "8 March 2025",
+    "entryScore": "6.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "New Brenda"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Lam, Jones and Nichols University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-business"
+  },
+  {
+    "id": "67",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Engineering",
+    "university": "Tanner-Christensen University",
+    "qualification": "Bachelor Degree",
+    "location": "Leehaven",
+    "fees": "NZD51742 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "27 March 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Leehaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Tanner-Christensen University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-engineering"
+  },
+  {
+    "id": "68",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health Sciences",
+    "university": "Snyder Group University",
+    "qualification": "Master Degree",
+    "location": "Thomasview",
+    "fees": "GBP50751 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "1 January 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Thomasview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Snyder Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-sciences"
+  },
+  {
+    "id": "69",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Business",
+    "university": "Garza, Oneill and Page University",
+    "qualification": "Doctorate Degree",
+    "location": "Port April",
+    "fees": "USD42612 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "24 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Port April"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Garza, Oneill and Page University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-business"
+  },
+  {
+    "id": "70",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Clark LLC University",
+    "qualification": "Bachelor Degree",
+    "location": "New Stevenhaven",
+    "fees": "NZD33114 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "17 January 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "New Stevenhaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Clark LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "71",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "United Kingdom",
+    "title": "Doctor of Health and Medicine",
+    "university": "Paul, Terrell and Jones University",
+    "qualification": "Doctorate Degree",
+    "location": "Maxton",
+    "fees": "GBP25099 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Maxton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Paul, Terrell and Jones University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-doctorate-health-and-medicine"
+  },
+  {
+    "id": "72",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Business",
+    "university": "Reed Ltd University",
+    "qualification": "Doctorate Degree",
+    "location": "Diazhaven",
+    "fees": "AUD44848 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "16 November 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Diazhaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Reed Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-business"
+  },
+  {
+    "id": "73",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "United States",
+    "title": "Master of Business",
+    "university": "Rose, Edwards and Shaffer University",
+    "qualification": "Master Degree",
+    "location": "North Natashaburgh",
+    "fees": "USD68648 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "28 July 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "North Natashaburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Rose, Edwards and Shaffer University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-postgraduate-business"
+  },
+  {
+    "id": "74",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Engineering",
+    "university": "Jordan-Pitts University",
+    "qualification": "Master Degree",
+    "location": "Alexfurt",
+    "fees": "CAD50440 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "10 January 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Alexfurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jordan-Pitts University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-engineering"
+  },
+  {
+    "id": "75",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Engineering",
+    "university": "Tate, Sanchez and Arias University",
+    "qualification": "Doctorate Degree",
+    "location": "Larsenberg",
+    "fees": "NZD22015 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "5 March 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Larsenberg"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Tate, Sanchez and Arias University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-engineering"
+  },
+  {
+    "id": "76",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Engineering",
+    "university": "Stein PLC University",
+    "qualification": "Doctorate Degree",
+    "location": "Gracechester",
+    "fees": "AUD52114 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "5 January 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Gracechester"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Stein PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-engineering"
+  },
+  {
+    "id": "77",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Teaching and Education",
+    "university": "Wright, Ibarra and Graham University",
+    "qualification": "Master Degree",
+    "location": "East Ronald",
+    "fees": "CAD57577 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "4 July 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "East Ronald"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wright, Ibarra and Graham University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "78",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Business",
+    "university": "Jensen and Sons University",
+    "qualification": "Bachelor Degree",
+    "location": "Peterside",
+    "fees": "USD61529 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "2 July 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Peterside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jensen and Sons University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-business"
+  },
+  {
+    "id": "79",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Engineering",
+    "university": "Jensen-Williams University",
+    "qualification": "Master Degree",
+    "location": "Marissastad",
+    "fees": "GBP47068 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "7 January 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Marissastad"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jensen-Williams University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-engineering"
+  },
+  {
+    "id": "80",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Teaching and Education",
+    "university": "Wilcox and Sons University",
+    "qualification": "Master Degree",
+    "location": "West Heidi",
+    "fees": "CAD24298 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "17 January 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "West Heidi"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wilcox and Sons University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "81",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Engineering",
+    "university": "Cain LLC University",
+    "qualification": "Bachelor Degree",
+    "location": "West Kevinmouth",
+    "fees": "EUR51436 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "19 March 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "West Kevinmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Cain LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-engineering"
+  },
+  {
+    "id": "82",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Engineering",
+    "university": "Marshall, Logan and French University",
+    "qualification": "Master Degree",
+    "location": "North Jennifer",
+    "fees": "EUR52810 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "23 January 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "North Jennifer"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Marshall, Logan and French University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-engineering"
+  },
+  {
+    "id": "83",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Wiley-Fox University",
+    "qualification": "Bachelor Degree",
+    "location": "Aprilton",
+    "fees": "USD38774 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "1 January 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Aprilton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wiley-Fox University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "84",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Business",
+    "university": "Jenkins Ltd University",
+    "qualification": "Bachelor Degree",
+    "location": "West Stacey",
+    "fees": "NZD48779 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "12 January 2025",
+    "entryScore": "6.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "West Stacey"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jenkins Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-business"
+  },
+  {
+    "id": "85",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "United Kingdom",
+    "title": "Doctor of Health and Medicine",
+    "university": "Walker-Le University",
+    "qualification": "Doctorate Degree",
+    "location": "Cookton",
+    "fees": "GBP47757 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "4 January 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Cookton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Walker-Le University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-doctorate-health-and-medicine"
+  },
+  {
+    "id": "86",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Teaching and Education",
+    "university": "Schwartz, Terry and Gray University",
+    "qualification": "Master Degree",
+    "location": "Quinnside",
+    "fees": "AUD32614 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "7 January 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Quinnside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Schwartz, Terry and Gray University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "87",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "New Zealand",
+    "title": "Master of Health and Medicine",
+    "university": "Hoover, Mccann and Ryan University",
+    "qualification": "Master Degree",
+    "location": "Wrightville",
+    "fees": "NZD63570 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "26 November 2025",
+    "entryScore": "7.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Wrightville"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hoover, Mccann and Ryan University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "88",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Australia",
+    "title": "Bachelor of Health Sciences",
+    "university": "Massey-Smith University",
+    "qualification": "Bachelor Degree",
+    "location": "East Mirandafurt",
+    "fees": "AUD52453 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "25 January 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "East Mirandafurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Massey-Smith University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-undergraduate-health-sciences"
+  },
+  {
+    "id": "89",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Engineering",
+    "university": "Hill-Cameron University",
+    "qualification": "Bachelor Degree",
+    "location": "North Tammyhaven",
+    "fees": "NZD69697 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "26 July 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "North Tammyhaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hill-Cameron University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-engineering"
+  },
+  {
+    "id": "90",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Engineering",
+    "university": "Perry Inc University",
+    "qualification": "Master Degree",
+    "location": "Alisonton",
+    "fees": "AUD35027 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "13 March 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Alisonton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Perry Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-engineering"
+  },
+  {
+    "id": "91",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Hayes-Perry University",
+    "qualification": "Bachelor Degree",
+    "location": "Jillianmouth",
+    "fees": "EUR46078 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "23 November 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Jillianmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hayes-Perry University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "92",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Health Sciences",
+    "university": "Lewis LLC University",
+    "qualification": "Doctorate Degree",
+    "location": "Robertsside",
+    "fees": "USD58884 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "21 March 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Robertsside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Lewis LLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-health-sciences"
+  },
+  {
+    "id": "93",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Engineering",
+    "university": "Cannon, Sullivan and Smith University",
+    "qualification": "Doctorate Degree",
+    "location": "Pruitthaven",
+    "fees": "NZD56848 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Pruitthaven"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Cannon, Sullivan and Smith University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-engineering"
+  },
+  {
+    "id": "94",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Business",
+    "university": "Sullivan, Castillo and Hatfield University",
+    "qualification": "Master Degree",
+    "location": "South Nicoleshire",
+    "fees": "AUD61086 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "16 March 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "South Nicoleshire"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sullivan, Castillo and Hatfield University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-business"
+  },
+  {
+    "id": "95",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Business",
+    "university": "Coffey Inc University",
+    "qualification": "Bachelor Degree",
+    "location": "South Karabury",
+    "fees": "NZD40626 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "3 July 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "South Karabury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Coffey Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-business"
+  },
+  {
+    "id": "96",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "United States",
+    "title": "Master of Health Sciences",
+    "university": "Clarke-Lopez University",
+    "qualification": "Master Degree",
+    "location": "Priceton",
+    "fees": "USD39358 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "27 January 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Priceton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Clarke-Lopez University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-postgraduate-health-sciences"
+  },
+  {
+    "id": "97",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Engineering",
+    "university": "Myers-Levine University",
+    "qualification": "Bachelor Degree",
+    "location": "Port Jamesmouth",
+    "fees": "EUR51037 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Port Jamesmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Myers-Levine University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-engineering"
+  },
+  {
+    "id": "98",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health and Medicine",
+    "university": "Lee, Howard and Lester University",
+    "qualification": "Master Degree",
+    "location": "North Marieton",
+    "fees": "GBP54284 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "6 March 2025",
+    "entryScore": "7.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "North Marieton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Lee, Howard and Lester University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "99",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Johnson, Morgan and Townsend University",
+    "qualification": "Bachelor Degree",
+    "location": "South Rebecca",
+    "fees": "EUR25339 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "27 January 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "South Rebecca"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Johnson, Morgan and Townsend University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "100",
+    "course": "Business",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Business",
+    "university": "Manning, Baker and Cruz University",
+    "qualification": "Bachelor Degree",
+    "location": "Catherinemouth",
+    "fees": "GBP21742 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "6 July 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Catherinemouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Manning, Baker and Cruz University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-business"
+  },
+  {
+    "id": "101",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Engineering",
+    "university": "Walton, Stone and Armstrong University",
+    "qualification": "Master Degree",
+    "location": "Martinezmouth",
+    "fees": "AUD32405 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "12 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Martinezmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Walton, Stone and Armstrong University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-engineering"
+  },
+  {
+    "id": "102",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Engineering",
+    "university": "Norris Group University",
+    "qualification": "Master Degree",
+    "location": "Nicholastown",
+    "fees": "CAD63114 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "4 November 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Nicholastown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Norris Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-engineering"
+  },
+  {
+    "id": "103",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "United States",
+    "title": "Master of Engineering",
+    "university": "Ponce Inc University",
+    "qualification": "Master Degree",
+    "location": "Wendymouth",
+    "fees": "USD57493 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "24 November 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Wendymouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Ponce Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-postgraduate-engineering"
+  },
+  {
+    "id": "104",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "Ireland",
+    "title": "Bachelor of Engineering",
+    "university": "Lam-Rodriguez University",
+    "qualification": "Bachelor Degree",
+    "location": "New Michael",
+    "fees": "EUR40613 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "18 January 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "New Michael"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Lam-Rodriguez University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-undergraduate-engineering"
+  },
+  {
+    "id": "105",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Health and Medicine",
+    "university": "Cowan Ltd University",
+    "qualification": "Doctorate Degree",
+    "location": "Loriland",
+    "fees": "NZD54471 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "4 March 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Loriland"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Cowan Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-health-and-medicine"
+  },
+  {
+    "id": "106",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Business",
+    "university": "Gentry Ltd University",
+    "qualification": "Doctorate Degree",
+    "location": "South Carla",
+    "fees": "AUD26547 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "22 January 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "South Carla"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Gentry Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-business"
+  },
+  {
+    "id": "107",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Health and Medicine",
+    "university": "Tucker-Villarreal University",
+    "qualification": "Doctorate Degree",
+    "location": "North John",
+    "fees": "USD35690 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "North John"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Tucker-Villarreal University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-health-and-medicine"
+  },
+  {
+    "id": "108",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health Sciences",
+    "university": "Sullivan Ltd University",
+    "qualification": "Master Degree",
+    "location": "West Stephanie",
+    "fees": "GBP68147 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "West Stephanie"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sullivan Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-sciences"
+  },
+  {
+    "id": "109",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Business",
+    "university": "Jenkins PLC University",
+    "qualification": "Master Degree",
+    "location": "Lake Cody",
+    "fees": "CAD56726 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "1 January 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Lake Cody"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jenkins PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-business"
+  },
+  {
+    "id": "110",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Engineering",
+    "university": "Mclean Ltd University",
+    "qualification": "Doctorate Degree",
+    "location": "Wigginsville",
+    "fees": "NZD60808 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "1 January 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Wigginsville"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mclean Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-engineering"
+  },
+  {
+    "id": "111",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Wells, Cortez and Olson University",
+    "qualification": "Bachelor Degree",
+    "location": "North Daniel",
+    "fees": "USD21952 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "28 January 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "North Daniel"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wells, Cortez and Olson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "112",
+    "course": "Business",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Business",
+    "university": "Hernandez-Adams University",
+    "qualification": "Doctorate Degree",
+    "location": "Matthewmouth",
+    "fees": "AUD31282 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "28 July 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Matthewmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hernandez-Adams University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-business"
+  },
+  {
+    "id": "113",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Health and Medicine",
+    "university": "Moore, Moore and Brown University",
+    "qualification": "Doctorate Degree",
+    "location": "Timothyview",
+    "fees": "NZD64924 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "18 March 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Timothyview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Moore, Moore and Brown University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-health-and-medicine"
+  },
+  {
+    "id": "114",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Engineering",
+    "university": "Lewis, Ramirez and Lopez University",
+    "qualification": "Bachelor Degree",
+    "location": "Perkinsport",
+    "fees": "GBP42371 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "20 November 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Perkinsport"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Lewis, Ramirez and Lopez University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-engineering"
+  },
+  {
+    "id": "115",
+    "course": "Teaching and Education",
+    "studyLevel": "Doctorate",
+    "destination": "United Kingdom",
+    "title": "Doctor of Teaching and Education",
+    "university": "Walker Group University",
+    "qualification": "Doctorate Degree",
+    "location": "Danielmouth",
+    "fees": "GBP48798 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "3 November 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Danielmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Walker Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-doctorate-teaching-and-education"
+  },
+  {
+    "id": "116",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "New Zealand",
+    "title": "Master of Health Sciences",
+    "university": "Brown Group University",
+    "qualification": "Master Degree",
+    "location": "Grayton",
+    "fees": "NZD44310 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "12 November 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Grayton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Brown Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-postgraduate-health-sciences"
+  },
+  {
+    "id": "117",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "Australia",
+    "title": "Doctor of Health and Medicine",
+    "university": "Baker, Terry and Moss University",
+    "qualification": "Doctorate Degree",
+    "location": "Elizabethview",
+    "fees": "AUD45684 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "28 July 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Elizabethview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Baker, Terry and Moss University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-doctorate-health-and-medicine"
+  },
+  {
+    "id": "118",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health and Medicine",
+    "university": "Scott Inc University",
+    "qualification": "Master Degree",
+    "location": "New Jessica",
+    "fees": "GBP35007 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "17 November 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "New Jessica"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Scott Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "119",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Costa, Carr and Smith University",
+    "qualification": "Bachelor Degree",
+    "location": "East Corey",
+    "fees": "CAD27818 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "16 November 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "East Corey"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Costa, Carr and Smith University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "120",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Richards, Young and Harris University",
+    "qualification": "Bachelor Degree",
+    "location": "Port Sharon",
+    "fees": "CAD29353 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "25 January 2025",
+    "entryScore": "6.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Port Sharon"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Richards, Young and Harris University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-teaching-and-education"
+  },
+  {
+    "id": "121",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "New Zealand",
+    "title": "Master of Health Sciences",
+    "university": "Sutton-Peterson University",
+    "qualification": "Master Degree",
+    "location": "Chavezberg",
+    "fees": "NZD55972 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "1 March 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Chavezberg"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Sutton-Peterson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-postgraduate-health-sciences"
+  },
+  {
+    "id": "122",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Health Sciences",
+    "university": "Christian Ltd University",
+    "qualification": "Bachelor Degree",
+    "location": "Angelaburgh",
+    "fees": "CAD59036 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "7.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Angelaburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Christian Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-health-sciences"
+  },
+  {
+    "id": "123",
+    "course": "Health and Medicine",
+    "studyLevel": "Undergraduate",
+    "destination": "New Zealand",
+    "title": "Bachelor of Health and Medicine",
+    "university": "Smith PLC University",
+    "qualification": "Bachelor Degree",
+    "location": "Port Morgan",
+    "fees": "NZD46411 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "7 January 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Port Morgan"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Smith PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-undergraduate-health-and-medicine"
+  },
+  {
+    "id": "124",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Health Sciences",
+    "university": "Knox, Williams and Barber University",
+    "qualification": "Master Degree",
+    "location": "Hudsonfurt",
+    "fees": "EUR55964 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "15 January 2025",
+    "entryScore": "7.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Hudsonfurt"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Knox, Williams and Barber University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-health-sciences"
+  },
+  {
+    "id": "125",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Health Sciences",
+    "university": "Perez, Bridges and Lopez University",
+    "qualification": "Master Degree",
+    "location": "Chasetown",
+    "fees": "AUD35044 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Chasetown"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Perez, Bridges and Lopez University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-health-sciences"
+  },
+  {
+    "id": "126",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Business",
+    "university": "Hoffman PLC University",
+    "qualification": "Master Degree",
+    "location": "Mcdowellland",
+    "fees": "GBP20605 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "26 November 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Mcdowellland"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hoffman PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-business"
+  },
+  {
+    "id": "127",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health Sciences",
+    "university": "Mills-Archer University",
+    "qualification": "Master Degree",
+    "location": "Johnsonburgh",
+    "fees": "GBP48186 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "4 July 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Johnsonburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mills-Archer University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-sciences"
+  },
+  {
+    "id": "128",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Business",
+    "university": "Gentry-Morales University",
+    "qualification": "Master Degree",
+    "location": "East Stephanieside",
+    "fees": "CAD34340 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "24 November 2025",
+    "entryScore": "6.4 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "East Stephanieside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Gentry-Morales University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-business"
+  },
+  {
+    "id": "129",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health and Medicine",
+    "university": "Peck, Oconnell and Moore University",
+    "qualification": "Master Degree",
+    "location": "Lake Michaelville",
+    "fees": "GBP23222 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "5 January 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Lake Michaelville"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Peck, Oconnell and Moore University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "130",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Business",
+    "university": "Cruz Group University",
+    "qualification": "Master Degree",
+    "location": "Shawbury",
+    "fees": "AUD34606 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "27 November 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Shawbury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Cruz Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-business"
+  },
+  {
+    "id": "131",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Business",
+    "university": "Scott Inc University",
+    "qualification": "Master Degree",
+    "location": "South Lindastad",
+    "fees": "GBP32258 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "16 November 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "South Lindastad"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Scott Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-business"
+  },
+  {
+    "id": "132",
+    "course": "Engineering",
+    "studyLevel": "Doctorate",
+    "destination": "United States",
+    "title": "Doctor of Engineering",
+    "university": "Mcmillan Inc University",
+    "qualification": "Doctorate Degree",
+    "location": "South Kimberlyton",
+    "fees": "USD29503 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "14 July 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "South Kimberlyton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mcmillan Inc University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-doctorate-engineering"
+  },
+  {
+    "id": "133",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Business",
+    "university": "Wyatt Ltd University",
+    "qualification": "Master Degree",
+    "location": "Greeneside",
+    "fees": "CAD34525 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "23 January 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Greeneside"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wyatt Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-business"
+  },
+  {
+    "id": "134",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Business",
+    "university": "Wilson-Young University",
+    "qualification": "Master Degree",
+    "location": "Christianburgh",
+    "fees": "CAD28726 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "9 March 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Christianburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Wilson-Young University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-business"
+  },
+  {
+    "id": "135",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Health and Medicine",
+    "university": "Brown, Boyd and Sullivan University",
+    "qualification": "Master Degree",
+    "location": "Adamsmouth",
+    "fees": "CAD41712 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "12 July 2025",
+    "entryScore": "6.2 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Adamsmouth"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Brown, Boyd and Sullivan University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "136",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "Canada",
+    "title": "Doctor of Health and Medicine",
+    "university": "Jones-Davis University",
+    "qualification": "Doctorate Degree",
+    "location": "New Kristen",
+    "fees": "CAD49829 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "13 March 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "New Kristen"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jones-Davis University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-doctorate-health-and-medicine"
+  },
+  {
+    "id": "137",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Australia",
+    "title": "Bachelor of Health Sciences",
+    "university": "Joseph PLC University",
+    "qualification": "Bachelor Degree",
+    "location": "Coreybury",
+    "fees": "AUD53134 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "6 March 2025",
+    "entryScore": "6.1 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Coreybury"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Joseph PLC University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-undergraduate-health-sciences"
+  },
+  {
+    "id": "138",
+    "course": "Health and Medicine",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Health and Medicine",
+    "university": "Blevins, Reeves and Stephenson University",
+    "qualification": "Doctorate Degree",
+    "location": "Annton",
+    "fees": "NZD46627 (2025)",
+    "duration": "3 Year(s)",
+    "nextIntake": "12 March 2025",
+    "entryScore": "6.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Annton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Blevins, Reeves and Stephenson University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-health-and-medicine"
+  },
+  {
+    "id": "139",
+    "course": "Business",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Business",
+    "university": "Martinez-Jones University",
+    "qualification": "Master Degree",
+    "location": "Lake Amber",
+    "fees": "CAD62370 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "5 January 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Business program."
+    ],
+    "startDates": [
+      {
+        "intack": "May, 2025",
+        "location": "Lake Amber"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Martinez-Jones University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-business"
+  },
+  {
+    "id": "140",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Health Sciences",
+    "university": "Peterson Ltd University",
+    "qualification": "Master Degree",
+    "location": "Williamsview",
+    "fees": "GBP45792 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "4 January 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Williamsview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Peterson Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-health-sciences"
+  },
+  {
+    "id": "141",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "United States",
+    "title": "Bachelor of Engineering",
+    "university": "Cooper, Daniels and Carter University",
+    "qualification": "Bachelor Degree",
+    "location": "Lake Monicaview",
+    "fees": "USD20633 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "19 January 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Lake Monicaview"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Cooper, Daniels and Carter University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-states-undergraduate-engineering"
+  },
+  {
+    "id": "142",
+    "course": "Health Sciences",
+    "studyLevel": "Doctorate",
+    "destination": "New Zealand",
+    "title": "Doctor of Health Sciences",
+    "university": "Brown-Wood University",
+    "qualification": "Doctorate Degree",
+    "location": "Bridgetton",
+    "fees": "NZD45108 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "5 March 2025",
+    "entryScore": "7.0 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Doctor of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Bridgetton"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Brown-Wood University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "new-zealand-doctorate-health-sciences"
+  },
+  {
+    "id": "143",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Health and Medicine",
+    "university": "Hess-Davis University",
+    "qualification": "Master Degree",
+    "location": "Lopezville",
+    "fees": "AUD60433 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "22 July 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "Lopezville"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hess-Davis University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "144",
+    "course": "Engineering",
+    "studyLevel": "Undergraduate",
+    "destination": "United Kingdom",
+    "title": "Bachelor of Engineering",
+    "university": "Hubbard, Mora and Mckinney University",
+    "qualification": "Bachelor Degree",
+    "location": "South Greg",
+    "fees": "GBP66920 (2025)",
+    "duration": "4 Year(s)",
+    "nextIntake": "5 July 2025",
+    "entryScore": "6.8 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "January, 2025",
+        "location": "South Greg"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Hubbard, Mora and Mckinney University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-undergraduate-engineering"
+  },
+  {
+    "id": "145",
+    "course": "Health Sciences",
+    "studyLevel": "Postgraduate",
+    "destination": "Australia",
+    "title": "Master of Health Sciences",
+    "university": "Roberts Group University",
+    "qualification": "Master Degree",
+    "location": "Christopherchester",
+    "fees": "AUD45189 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "12 July 2025",
+    "entryScore": "6.9 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health Sciences program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "Christopherchester"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Roberts Group University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "australia-postgraduate-health-sciences"
+  },
+  {
+    "id": "146",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "United Kingdom",
+    "title": "Master of Teaching and Education",
+    "university": "Peterson-Clark University",
+    "qualification": "Master Degree",
+    "location": "West Christianshire",
+    "fees": "GBP46385 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "27 November 2025",
+    "entryScore": "6.6 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "November, 2025",
+        "location": "West Christianshire"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Peterson-Clark University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "united-kingdom-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "147",
+    "course": "Engineering",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Engineering",
+    "university": "Jones-Quinn University",
+    "qualification": "Master Degree",
+    "location": "Martinburgh",
+    "fees": "EUR61289 (2025)",
+    "duration": "6 Year(s)",
+    "nextIntake": "18 March 2025",
+    "entryScore": "7.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Engineering program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "Martinburgh"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Jones-Quinn University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-engineering"
+  },
+  {
+    "id": "148",
+    "course": "Teaching and Education",
+    "studyLevel": "Postgraduate",
+    "destination": "Canada",
+    "title": "Master of Teaching and Education",
+    "university": "Dixon Ltd University",
+    "qualification": "Master Degree",
+    "location": "North Joseph",
+    "fees": "CAD42081 (2025)",
+    "duration": "5 Year(s)",
+    "nextIntake": "21 July 2025",
+    "entryScore": "6.3 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "March, 2025",
+        "location": "North Joseph"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Dixon Ltd University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-postgraduate-teaching-and-education"
+  },
+  {
+    "id": "149",
+    "course": "Health and Medicine",
+    "studyLevel": "Postgraduate",
+    "destination": "Ireland",
+    "title": "Master of Health and Medicine",
+    "university": "Mitchell, Walls and Cervantes University",
+    "qualification": "Master Degree",
+    "location": "Woodfort",
+    "fees": "EUR57657 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "25 November 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Master of Health and Medicine program."
+    ],
+    "startDates": [
+      {
+        "intack": "July, 2025",
+        "location": "Woodfort"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Mitchell, Walls and Cervantes University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "ireland-postgraduate-health-and-medicine"
+  },
+  {
+    "id": "150",
+    "course": "Teaching and Education",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Teaching and Education",
+    "university": "Young, Palmer and Brown University",
+    "qualification": "Bachelor Degree",
+    "location": "Port Brendaville",
+    "fees": "CAD57078 (2025)",
+    "duration": "2 Year(s)",
+    "nextIntake": "9 November 2025",
+    "entryScore": "6.7 IELTS",
+    "aboutCourse": [
+      "This is a dummy description for the Bachelor of Teaching and Education program."
+    ],
+    "startDates": [
+      {
+        "intack": "September, 2025",
+        "location": "Port Brendaville"
+      }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Young, Palmer and Brown University",
+        "content": "Standard entry requirements apply."
+      },
+      {
+        "head": "Application Deadline",
+        "content": "Contact support for deadline information."
+      }
+    ],
+    "reviews": [],
+    "seo": "canada-undergraduate-teaching-and-education"
+  }
+]

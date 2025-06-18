@@ -1,0 +1,100 @@
+{
+
+  "hero":[
+    {
+      "head":"Your Study Abroad Journey Begins Here",
+      "para":"1,13,000+ students achieved their study abroad dreams with Ria Education in 2023"
+    },
+    {
+      "head":"60+ Universities, up to 100% Scholarships – Attend India’s Biggest Study Abroad Expo",
+      "para":"Australia | Canada | New Zealand"
+    },
+    {
+      "head":"IDP Guided 28,000+ Students to the UK in 2023 – Your Future Starts Here!",
+      "para":"Attend India’s Biggest Study Abroad Expo in your city"
+    },
+    {
+      "head":"Attend India’s Biggest Study Abroad Expo",
+      "para":"Meet 30 Top Canadian Universities & Secure Up to 100%* Scholarships! "
+    }
+  ],
+  "service":[
+    {
+      "head":"Personalized Profile Assessment",
+      "icon":"fa-solid fa-user-check",
+      "content":"We start by understanding your unique profile and requirements, so we can help find the best destination, course, and institution that match your eligibility, interests, and aspirations"
+    },
+    {
+      "head":"Applying to Institutions",
+      "icon":"fa-solid fa-university",
+      "content":"We handhold you through the entire application process from preparation to submission, including identifying scholarship opportunities for you"
+    },
+    {
+      "head":"Admission letter acceptance",
+      "icon":"fa-solid fa-envelope-open-text",
+      "content":"Our expert help you evaluate your offers and make the right choice. We further guide you with essential services like tuition fee payments, accommodation, and more"
+    },
+    {
+      "head":"Education loan",
+      "icon":"fa-solid fa-hand-holding-dollar",
+      "content":"Need financial support? Thanks to our exclusive partnerships, we help you with the best interest rates and hassle-free education loan process"
+    },
+    {
+      "head":"Visa preparation",
+      "icon":"fa-solid fa-passport",
+      "content":"We assist you with document preparation and conduct thorough checks to ensure everything is accurate for your visa submission. By the way, IDP has the highest student visa success rate"
+    },
+    {
+      "head":"Pre-departure briefing",
+      "icon":"fa-solid fa-plane-departure",
+      "content":"SIM card, international bank account, forex, or settling in the first few weeks in your dream destination, we help you with EVERYTHING before you leave your home country."
+    }
+
+  ],
+  "knowDestination":[
+    {
+      "destination":"Australia",
+      "head":"Study in Australia",
+      "content":"Uncover a world of opportunities in the land down under! With over 1,100 institutions, and 22,000 courses to choose from, Australia offers a world-class education and an outstanding quality of life.",
+      "img":"destination-1.jpg"
+    },
+    {
+      "destination":"Canada",
+      "head":"Study in Canada",
+      "content":"Canada is renowned for its high-quality education and welcoming multicultural society. With a reputation for safety, innovation, and stunning scenery, it's a top choice for those seeking a well-rounded study abroad experience.",
+      "img":"destination-2.jpg"
+    },
+    {
+      "destination":"Ireland",
+      "head":"Study in Ireland",
+      "content":"Ireland consistently ranks top 20 globally for quality of life, safety, and hurman development. Its rich history, vibrant culture, and top-tier institutions attract students seeking excellent education in a welcoming environment.",
+      "img":"destination-3.jpg"
+    },
+    {
+      "destination":"New Zealand",
+      "head":"Study in New Zealand",
+      "content":"Renowned as one of the world's safest nations, New Zealand is a popular choice among international students. It offers a world-class education system, abundant research opportunities, breathtaking natural beauty and unparalleled outdoor experiences.",
+      "img":"destination-4.jpg"
+    },
+    {
+      "destination":"United Kingdom",
+      "head":"Study in United Kingdom",
+      "content":"The United Kingdom is home to some of the world's finest and oldest universities and colleges. Experience a tradition of academic excellence and research innovation, with access to top-quality education that shapes future leaders across diverse fields.",
+      "img":"destination-5.jpg"
+    },
+    {
+      "destination":"United States",
+      "head":"Study in United States",
+      "content":"Boasting 33 of the world's top 100 universities, as well as being home to the financial, technology, aerospace, healthcare and entertainment hubs of the world, the United States is a land of educational and career opportunities for international students.",
+      "img":"destination-6.jpg"
+    }
+  ],
+  "studentServices":[
+    {
+      "icon":"",
+      "head":"",
+      "content":""
+    }
+  ]
+}
+  

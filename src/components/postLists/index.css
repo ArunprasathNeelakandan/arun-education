@@ -1,0 +1,19 @@
+.post-list-bg .banner {
+   background-image:url(/post-panner-md.jpg);
+}
+
+@media screen and (min-width: 992px) {
+    .post-list-bg .banner {
+         background-image:url(/post-banner.png);
+         color: #000;
+    }
+
+    .post-list-bg .banner p {
+        width: 80%;
+    }
+
+    .post-list-bg .banner h1 {
+        width: 50%;
+    }
+}
+

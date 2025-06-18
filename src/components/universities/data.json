@@ -1,0 +1,2237 @@
+[
+  {
+    "id": "1",
+    "university": "Swanson LLC University",
+    "destination": "Australia",
+    "img": "/university/university-1.jpg",
+    "internationalStudents": "1001",
+    "costOfLiving": "AUD963",
+    "ranking": "1",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.swansonllcuniversity.edu"
+  },
+  {
+    "id": "2",
+    "university": "Campos-Garcia University",
+    "destination": "Australia",
+    "img": "/university/university-2.jpg",
+    "internationalStudents": "1002",
+    "costOfLiving": "AUD963",
+    "ranking": "2",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.camposgarciauniversity.edu"
+  },
+  {
+    "id": "3",
+    "university": "Allen, Ramos and Taylor University",
+    "destination": "Australia",
+    "img": "/university/university-3.jpg",
+    "internationalStudents": "1003",
+    "costOfLiving": "AUD963",
+    "ranking": "3",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.allenramosandtayloruniversity.edu"
+  },
+  {
+    "id": "4",
+    "university": "Evans and Sons University",
+    "destination": "Australia",
+    "img": "/university/university-4.jpg",
+    "internationalStudents": "1004",
+    "costOfLiving": "AUD963",
+    "ranking": "4",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.evansandsonsuniversity.edu"
+  },
+  {
+    "id": "5",
+    "university": "Jones, Walton and Gaines University",
+    "destination": "Australia",
+    "img": "/university/university-5.jpg",
+    "internationalStudents": "1005",
+    "costOfLiving": "AUD963",
+    "ranking": "5",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.joneswaltonandgainesuniversity.edu"
+  },
+  {
+    "id": "6",
+    "university": "Sosa Group University",
+    "destination": "Australia",
+    "img": "/university/university-6.jpg",
+    "internationalStudents": "1006",
+    "costOfLiving": "AUD963",
+    "ranking": "6",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.sosagroupuniversity.edu"
+  },
+  {
+    "id": "7",
+    "university": "Pena-Vang University",
+    "destination": "Australia",
+    "img": "/university/university-7.jpg",
+    "internationalStudents": "1007",
+    "costOfLiving": "AUD963",
+    "ranking": "7",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.penavanguniversity.edu"
+  },
+  {
+    "id": "8",
+    "university": "Page, Brown and Hall University",
+    "destination": "Australia",
+    "img": "/university/university-8.jpg",
+    "internationalStudents": "1008",
+    "costOfLiving": "AUD963",
+    "ranking": "8",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.pagebrownandhalluniversity.edu"
+  },
+  {
+    "id": "9",
+    "university": "Gonzales-Brennan University",
+    "destination": "Australia",
+    "img": "/university/university-9.jpg",
+    "internationalStudents": "1009",
+    "costOfLiving": "AUD963",
+    "ranking": "9",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.gonzalesbrennanuniversity.edu"
+  },
+  {
+    "id": "10",
+    "university": "Wilson, King and Collins University",
+    "destination": "Australia",
+    "img": "/university/university-10.jpg",
+    "internationalStudents": "1010",
+    "costOfLiving": "AUD963",
+    "ranking": "10",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wilsonkingandcollinsuniversity.edu"
+  },
+  {
+    "id": "11",
+    "university": "Paul-Patterson University",
+    "destination": "Australia",
+    "img": "/university/university-11.jpg",
+    "internationalStudents": "1011",
+    "costOfLiving": "AUD963",
+    "ranking": "11",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.paulpattersonuniversity.edu"
+  },
+  {
+    "id": "12",
+    "university": "Brooks, Alvarez and Randall University",
+    "destination": "Australia",
+    "img": "/university/university-12.jpg",
+    "internationalStudents": "1012",
+    "costOfLiving": "AUD963",
+    "ranking": "12",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.brooksalvarezandrandalluniversity.edu"
+  },
+  {
+    "id": "13",
+    "university": "Yang, Thompson and Nicholson University",
+    "destination": "Australia",
+    "img": "/university/university-13.jpg",
+    "internationalStudents": "1013",
+    "costOfLiving": "AUD963",
+    "ranking": "13",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.yangthompsonandnicholsonuniversity.edu"
+  },
+  {
+    "id": "14",
+    "university": "Garrett-Dorsey University",
+    "destination": "Australia",
+    "img": "/university/university-14.jpg",
+    "internationalStudents": "1014",
+    "costOfLiving": "AUD963",
+    "ranking": "14",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.garrettdorseyuniversity.edu"
+  },
+  {
+    "id": "15",
+    "university": "Mueller LLC University",
+    "destination": "Australia",
+    "img": "/university/university-15.jpg",
+    "internationalStudents": "1015",
+    "costOfLiving": "AUD963",
+    "ranking": "15",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.muellerllcuniversity.edu"
+  },
+  {
+    "id": "16",
+    "university": "Hartman Inc University",
+    "destination": "Australia",
+    "img": "/university/university-16.jpg",
+    "internationalStudents": "1016",
+    "costOfLiving": "AUD963",
+    "ranking": "16",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hartmanincuniversity.edu"
+  },
+  {
+    "id": "17",
+    "university": "Guerrero-Mitchell University",
+    "destination": "Australia",
+    "img": "/university/university-17.jpg",
+    "internationalStudents": "1017",
+    "costOfLiving": "AUD963",
+    "ranking": "17",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.guerreromitchelluniversity.edu"
+  },
+  {
+    "id": "18",
+    "university": "Pierce, Miller and Burns University",
+    "destination": "Australia",
+    "img": "/university/university-18.jpg",
+    "internationalStudents": "1018",
+    "costOfLiving": "AUD963",
+    "ranking": "18",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.piercemillerandburnsuniversity.edu"
+  },
+  {
+    "id": "19",
+    "university": "Francis Group University",
+    "destination": "Australia",
+    "img": "/university/university-19.jpg",
+    "internationalStudents": "1019",
+    "costOfLiving": "AUD963",
+    "ranking": "19",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.francisgroupuniversity.edu"
+  },
+  {
+    "id": "20",
+    "university": "Dixon, Greene and Mays University",
+    "destination": "Australia",
+    "img": "/university/university-20.jpg",
+    "internationalStudents": "1020",
+    "costOfLiving": "AUD963",
+    "ranking": "20",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.dixongreeneandmaysuniversity.edu"
+  },
+  {
+    "id": "21",
+    "university": "Taylor, Wise and Thomas University",
+    "destination": "Australia",
+    "img": "/university/university-21.jpg",
+    "internationalStudents": "1021",
+    "costOfLiving": "AUD963",
+    "ranking": "21",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.taylorwiseandthomasuniversity.edu"
+  },
+  {
+    "id": "22",
+    "university": "Bean-Tanner University",
+    "destination": "Australia",
+    "img": "/university/university-22.jpg",
+    "internationalStudents": "1022",
+    "costOfLiving": "AUD963",
+    "ranking": "22",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.beantanneruniversity.edu"
+  },
+  {
+    "id": "23",
+    "university": "Perez, Stephens and Carroll University",
+    "destination": "Australia",
+    "img": "/university/university-23.jpg",
+    "internationalStudents": "1023",
+    "costOfLiving": "AUD963",
+    "ranking": "23",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.perezstephensandcarrolluniversity.edu"
+  },
+  {
+    "id": "24",
+    "university": "Walter-Knox University",
+    "destination": "Australia",
+    "img": "/university/university-24.jpg",
+    "internationalStudents": "1024",
+    "costOfLiving": "AUD963",
+    "ranking": "24",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.walterknoxuniversity.edu"
+  },
+  {
+    "id": "25",
+    "university": "Smith-Kennedy University",
+    "destination": "Australia",
+    "img": "/university/university-25.jpg",
+    "internationalStudents": "1025",
+    "costOfLiving": "AUD963",
+    "ranking": "25",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.smithkennedyuniversity.edu"
+  },
+  {
+    "id": "26",
+    "university": "Watson, Wells and Cummings University",
+    "destination": "Australia",
+    "img": "/university/university-26.jpg",
+    "internationalStudents": "1026",
+    "costOfLiving": "AUD963",
+    "ranking": "26",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.watsonwellsandcummingsuniversity.edu"
+  },
+  {
+    "id": "27",
+    "university": "Sellers, Houston and Norton University",
+    "destination": "Australia",
+    "img": "/university/university-27.jpg",
+    "internationalStudents": "1027",
+    "costOfLiving": "AUD963",
+    "ranking": "27",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.sellershoustonandnortonuniversity.edu"
+  },
+  {
+    "id": "28",
+    "university": "Caldwell, Snyder and Clark University",
+    "destination": "Australia",
+    "img": "/university/university-28.jpg",
+    "internationalStudents": "1028",
+    "costOfLiving": "AUD963",
+    "ranking": "28",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.caldwellsnyderandclarkuniversity.edu"
+  },
+  {
+    "id": "29",
+    "university": "Hicks, Gonzalez and Thompson University",
+    "destination": "Australia",
+    "img": "/university/university-29.jpg",
+    "internationalStudents": "1029",
+    "costOfLiving": "AUD963",
+    "ranking": "29",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hicksgonzalezandthompsonuniversity.edu"
+  },
+  {
+    "id": "30",
+    "university": "Nelson-Diaz University",
+    "destination": "Australia",
+    "img": "/university/university-30.jpg",
+    "internationalStudents": "1030",
+    "costOfLiving": "AUD963",
+    "ranking": "30",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.nelsondiazuniversity.edu"
+  },
+  {
+    "id": "31",
+    "university": "Ortiz-Hickman University",
+    "destination": "Australia",
+    "img": "/university/university-31.jpg",
+    "internationalStudents": "1031",
+    "costOfLiving": "AUD963",
+    "ranking": "31",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.ortizhickmanuniversity.edu"
+  },
+  {
+    "id": "32",
+    "university": "Mendoza, Thompson and Solis University",
+    "destination": "Australia",
+    "img": "/university/university-32.jpg",
+    "internationalStudents": "1032",
+    "costOfLiving": "AUD963",
+    "ranking": "32",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mendozathompsonandsolisuniversity.edu"
+  },
+  {
+    "id": "33",
+    "university": "Rodriguez and Sons University",
+    "destination": "Australia",
+    "img": "/university/university-33.jpg",
+    "internationalStudents": "1033",
+    "costOfLiving": "AUD963",
+    "ranking": "33",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.rodriguezandsonsuniversity.edu"
+  },
+  {
+    "id": "34",
+    "university": "Schmidt Inc University",
+    "destination": "Australia",
+    "img": "/university/university-34.jpg",
+    "internationalStudents": "1034",
+    "costOfLiving": "AUD963",
+    "ranking": "34",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.schmidtincuniversity.edu"
+  },
+  {
+    "id": "35",
+    "university": "Beasley, Mccall and Schmidt University",
+    "destination": "Australia",
+    "img": "/university/university-35.jpg",
+    "internationalStudents": "1035",
+    "costOfLiving": "AUD963",
+    "ranking": "35",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.beasleymccallandschmidtuniversity.edu"
+  },
+  {
+    "id": "36",
+    "university": "Mata-Jackson University",
+    "destination": "Australia",
+    "img": "/university/university-36.jpg",
+    "internationalStudents": "1036",
+    "costOfLiving": "AUD963",
+    "ranking": "36",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.matajacksonuniversity.edu"
+  },
+  {
+    "id": "37",
+    "university": "Reyes-Castillo University",
+    "destination": "Australia",
+    "img": "/university/university-37.jpg",
+    "internationalStudents": "1037",
+    "costOfLiving": "AUD963",
+    "ranking": "37",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.reyescastillouniversity.edu"
+  },
+  {
+    "id": "38",
+    "university": "Yu-Moore University",
+    "destination": "Australia",
+    "img": "/university/university-38.jpg",
+    "internationalStudents": "1038",
+    "costOfLiving": "AUD963",
+    "ranking": "38",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.yumooreuniversity.edu"
+  },
+  {
+    "id": "39",
+    "university": "Mitchell PLC University",
+    "destination": "Australia",
+    "img": "/university/university-39.jpg",
+    "internationalStudents": "1039",
+    "costOfLiving": "AUD963",
+    "ranking": "39",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mitchellplcuniversity.edu"
+  },
+  {
+    "id": "40",
+    "university": "Davidson Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-40.jpg",
+    "internationalStudents": "1040",
+    "costOfLiving": "AUD963",
+    "ranking": "40",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.davidsonltduniversity.edu"
+  },
+  {
+    "id": "41",
+    "university": "Levy-Sanchez University",
+    "destination": "Australia",
+    "img": "/university/university-41.jpg",
+    "internationalStudents": "1041",
+    "costOfLiving": "AUD963",
+    "ranking": "41",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.levysanchezuniversity.edu"
+  },
+  {
+    "id": "42",
+    "university": "Davis, Saunders and Bowers University",
+    "destination": "Australia",
+    "img": "/university/university-42.jpg",
+    "internationalStudents": "1042",
+    "costOfLiving": "AUD963",
+    "ranking": "42",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.davissaundersandbowersuniversity.edu"
+  },
+  {
+    "id": "43",
+    "university": "Mills, Davis and Zimmerman University",
+    "destination": "Australia",
+    "img": "/university/university-43.jpg",
+    "internationalStudents": "1043",
+    "costOfLiving": "AUD963",
+    "ranking": "43",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.millsdavisandzimmermanuniversity.edu"
+  },
+  {
+    "id": "44",
+    "university": "Williams, Mcintyre and Wright University",
+    "destination": "Australia",
+    "img": "/university/university-44.jpg",
+    "internationalStudents": "1044",
+    "costOfLiving": "AUD963",
+    "ranking": "44",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.williamsmcintyreandwrightuniversity.edu"
+  },
+  {
+    "id": "45",
+    "university": "Williams Group University",
+    "destination": "Australia",
+    "img": "/university/university-45.jpg",
+    "internationalStudents": "1045",
+    "costOfLiving": "AUD963",
+    "ranking": "45",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.williamsgroupuniversity.edu"
+  },
+  {
+    "id": "46",
+    "university": "Robinson, Edwards and Guzman University",
+    "destination": "Australia",
+    "img": "/university/university-46.jpg",
+    "internationalStudents": "1046",
+    "costOfLiving": "AUD963",
+    "ranking": "46",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.robinsonedwardsandguzmanuniversity.edu"
+  },
+  {
+    "id": "47",
+    "university": "Robbins Inc University",
+    "destination": "Australia",
+    "img": "/university/university-47.jpg",
+    "internationalStudents": "1047",
+    "costOfLiving": "AUD963",
+    "ranking": "47",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.robbinsincuniversity.edu"
+  },
+  {
+    "id": "48",
+    "university": "Mcintyre LLC University",
+    "destination": "Australia",
+    "img": "/university/university-48.jpg",
+    "internationalStudents": "1048",
+    "costOfLiving": "AUD963",
+    "ranking": "48",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mcintyrellcuniversity.edu"
+  },
+  {
+    "id": "49",
+    "university": "Stewart-Norton University",
+    "destination": "Australia",
+    "img": "/university/university-49.jpg",
+    "internationalStudents": "1049",
+    "costOfLiving": "AUD963",
+    "ranking": "49",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.stewartnortonuniversity.edu"
+  },
+  {
+    "id": "50",
+    "university": "Rogers Inc University",
+    "destination": "Australia",
+    "img": "/university/university-50.jpg",
+    "internationalStudents": "1050",
+    "costOfLiving": "AUD963",
+    "ranking": "50",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.rogersincuniversity.edu"
+  },
+  {
+    "id": "51",
+    "university": "Ramos-Sutton University",
+    "destination": "Australia",
+    "img": "/university/university-51.jpg",
+    "internationalStudents": "1051",
+    "costOfLiving": "AUD963",
+    "ranking": "51",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.ramossuttonuniversity.edu"
+  },
+  {
+    "id": "52",
+    "university": "Bautista Group University",
+    "destination": "Australia",
+    "img": "/university/university-52.jpg",
+    "internationalStudents": "1052",
+    "costOfLiving": "AUD963",
+    "ranking": "52",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.bautistagroupuniversity.edu"
+  },
+  {
+    "id": "53",
+    "university": "Bowers-Johnson University",
+    "destination": "Australia",
+    "img": "/university/university-53.jpg",
+    "internationalStudents": "1053",
+    "costOfLiving": "AUD963",
+    "ranking": "53",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.bowersjohnsonuniversity.edu"
+  },
+  {
+    "id": "54",
+    "university": "Phillips, Carey and Daugherty University",
+    "destination": "Australia",
+    "img": "/university/university-54.jpg",
+    "internationalStudents": "1054",
+    "costOfLiving": "AUD963",
+    "ranking": "54",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.phillipscareyanddaughertyuniversity.edu"
+  },
+  {
+    "id": "55",
+    "university": "Bowen and Sons University",
+    "destination": "Australia",
+    "img": "/university/university-55.jpg",
+    "internationalStudents": "1055",
+    "costOfLiving": "AUD963",
+    "ranking": "55",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.bowenandsonsuniversity.edu"
+  },
+  {
+    "id": "56",
+    "university": "Sanchez, Brooks and Brennan University",
+    "destination": "Australia",
+    "img": "/university/university-56.jpg",
+    "internationalStudents": "1056",
+    "costOfLiving": "AUD963",
+    "ranking": "56",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.sanchezbrooksandbrennanuniversity.edu"
+  },
+  {
+    "id": "57",
+    "university": "Reynolds, Walton and Henry University",
+    "destination": "Australia",
+    "img": "/university/university-57.jpg",
+    "internationalStudents": "1057",
+    "costOfLiving": "AUD963",
+    "ranking": "57",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.reynoldswaltonandhenryuniversity.edu"
+  },
+  {
+    "id": "58",
+    "university": "Turner, Martinez and Walsh University",
+    "destination": "Australia",
+    "img": "/university/university-58.jpg",
+    "internationalStudents": "1058",
+    "costOfLiving": "AUD963",
+    "ranking": "58",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.turnermartinezandwalshuniversity.edu"
+  },
+  {
+    "id": "59",
+    "university": "George, Tran and Martin University",
+    "destination": "Australia",
+    "img": "/university/university-59.jpg",
+    "internationalStudents": "1059",
+    "costOfLiving": "AUD963",
+    "ranking": "59",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.georgetranandmartinuniversity.edu"
+  },
+  {
+    "id": "60",
+    "university": "Mejia-Alexander University",
+    "destination": "Australia",
+    "img": "/university/university-60.jpg",
+    "internationalStudents": "1060",
+    "costOfLiving": "AUD963",
+    "ranking": "60",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mejiaalexanderuniversity.edu"
+  },
+  {
+    "id": "61",
+    "university": "Wiley, Edwards and Reese University",
+    "destination": "Australia",
+    "img": "/university/university-61.jpg",
+    "internationalStudents": "1061",
+    "costOfLiving": "AUD963",
+    "ranking": "61",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wileyedwardsandreeseuniversity.edu"
+  },
+  {
+    "id": "62",
+    "university": "Castro Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-62.jpg",
+    "internationalStudents": "1062",
+    "costOfLiving": "AUD963",
+    "ranking": "62",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.castroltduniversity.edu"
+  },
+  {
+    "id": "63",
+    "university": "Smith-Hicks University",
+    "destination": "Australia",
+    "img": "/university/university-63.jpg",
+    "internationalStudents": "1063",
+    "costOfLiving": "AUD963",
+    "ranking": "63",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.smithhicksuniversity.edu"
+  },
+  {
+    "id": "64",
+    "university": "Moore PLC University",
+    "destination": "Australia",
+    "img": "/university/university-64.jpg",
+    "internationalStudents": "1064",
+    "costOfLiving": "AUD963",
+    "ranking": "64",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mooreplcuniversity.edu"
+  },
+  {
+    "id": "65",
+    "university": "Hanna, Lee and Hubbard University",
+    "destination": "Australia",
+    "img": "/university/university-65.jpg",
+    "internationalStudents": "1065",
+    "costOfLiving": "AUD963",
+    "ranking": "65",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hannaleeandhubbarduniversity.edu"
+  },
+  {
+    "id": "66",
+    "university": "Lam, Jones and Nichols University",
+    "destination": "Australia",
+    "img": "/university/university-66.jpg",
+    "internationalStudents": "1066",
+    "costOfLiving": "AUD963",
+    "ranking": "66",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.lamjonesandnicholsuniversity.edu"
+  },
+  {
+    "id": "67",
+    "university": "Tanner-Christensen University",
+    "destination": "Australia",
+    "img": "/university/university-67.jpg",
+    "internationalStudents": "1067",
+    "costOfLiving": "AUD963",
+    "ranking": "67",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.tannerchristensenuniversity.edu"
+  },
+  {
+    "id": "68",
+    "university": "Snyder Group University",
+    "destination": "Australia",
+    "img": "/university/university-68.jpg",
+    "internationalStudents": "1068",
+    "costOfLiving": "AUD963",
+    "ranking": "68",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.snydergroupuniversity.edu"
+  },
+  {
+    "id": "69",
+    "university": "Garza, Oneill and Page University",
+    "destination": "Australia",
+    "img": "/university/university-69.jpg",
+    "internationalStudents": "1069",
+    "costOfLiving": "AUD963",
+    "ranking": "69",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.garzaoneillandpageuniversity.edu"
+  },
+  {
+    "id": "70",
+    "university": "Clark LLC University",
+    "destination": "Australia",
+    "img": "/university/university-70.jpg",
+    "internationalStudents": "1070",
+    "costOfLiving": "AUD963",
+    "ranking": "70",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.clarkllcuniversity.edu"
+  },
+  {
+    "id": "71",
+    "university": "Paul, Terrell and Jones University",
+    "destination": "Australia",
+    "img": "/university/university-71.jpg",
+    "internationalStudents": "1071",
+    "costOfLiving": "AUD963",
+    "ranking": "71",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.paulterrellandjonesuniversity.edu"
+  },
+  {
+    "id": "72",
+    "university": "Reed Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-72.jpg",
+    "internationalStudents": "1072",
+    "costOfLiving": "AUD963",
+    "ranking": "72",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.reedltduniversity.edu"
+  },
+  {
+    "id": "73",
+    "university": "Rose, Edwards and Shaffer University",
+    "destination": "Australia",
+    "img": "/university/university-73.jpg",
+    "internationalStudents": "1073",
+    "costOfLiving": "AUD963",
+    "ranking": "73",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.roseedwardsandshafferuniversity.edu"
+  },
+  {
+    "id": "74",
+    "university": "Jordan-Pitts University",
+    "destination": "Australia",
+    "img": "/university/university-74.jpg",
+    "internationalStudents": "1074",
+    "costOfLiving": "AUD963",
+    "ranking": "74",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jordanpittsuniversity.edu"
+  },
+  {
+    "id": "75",
+    "university": "Tate, Sanchez and Arias University",
+    "destination": "Australia",
+    "img": "/university/university-75.jpg",
+    "internationalStudents": "1075",
+    "costOfLiving": "AUD963",
+    "ranking": "75",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.tatesanchezandariasuniversity.edu"
+  },
+  {
+    "id": "76",
+    "university": "Stein PLC University",
+    "destination": "Australia",
+    "img": "/university/university-76.jpg",
+    "internationalStudents": "1076",
+    "costOfLiving": "AUD963",
+    "ranking": "76",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.steinplcuniversity.edu"
+  },
+  {
+    "id": "77",
+    "university": "Wright, Ibarra and Graham University",
+    "destination": "Australia",
+    "img": "/university/university-77.jpg",
+    "internationalStudents": "1077",
+    "costOfLiving": "AUD963",
+    "ranking": "77",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wrightibarraandgrahamuniversity.edu"
+  },
+  {
+    "id": "78",
+    "university": "Jensen and Sons University",
+    "destination": "Australia",
+    "img": "/university/university-78.jpg",
+    "internationalStudents": "1078",
+    "costOfLiving": "AUD963",
+    "ranking": "78",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jensenandsonsuniversity.edu"
+  },
+  {
+    "id": "79",
+    "university": "Jensen-Williams University",
+    "destination": "Australia",
+    "img": "/university/university-79.jpg",
+    "internationalStudents": "1079",
+    "costOfLiving": "AUD963",
+    "ranking": "79",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jensenwilliamsuniversity.edu"
+  },
+  {
+    "id": "80",
+    "university": "Wilcox and Sons University",
+    "destination": "Australia",
+    "img": "/university/university-80.jpg",
+    "internationalStudents": "1080",
+    "costOfLiving": "AUD963",
+    "ranking": "80",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wilcoxandsonsuniversity.edu"
+  },
+  {
+    "id": "81",
+    "university": "Cain LLC University",
+    "destination": "Australia",
+    "img": "/university/university-81.jpg",
+    "internationalStudents": "1081",
+    "costOfLiving": "AUD963",
+    "ranking": "81",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.cainllcuniversity.edu"
+  },
+  {
+    "id": "82",
+    "university": "Marshall, Logan and French University",
+    "destination": "Australia",
+    "img": "/university/university-82.jpg",
+    "internationalStudents": "1082",
+    "costOfLiving": "AUD963",
+    "ranking": "82",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.marshallloganandfrenchuniversity.edu"
+  },
+  {
+    "id": "83",
+    "university": "Wiley-Fox University",
+    "destination": "Australia",
+    "img": "/university/university-83.jpg",
+    "internationalStudents": "1083",
+    "costOfLiving": "AUD963",
+    "ranking": "83",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wileyfoxuniversity.edu"
+  },
+  {
+    "id": "84",
+    "university": "Jenkins Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-84.jpg",
+    "internationalStudents": "1084",
+    "costOfLiving": "AUD963",
+    "ranking": "84",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jenkinsltduniversity.edu"
+  },
+  {
+    "id": "85",
+    "university": "Walker-Le University",
+    "destination": "Australia",
+    "img": "/university/university-85.jpg",
+    "internationalStudents": "1085",
+    "costOfLiving": "AUD963",
+    "ranking": "85",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.walkerleuniversity.edu"
+  },
+  {
+    "id": "86",
+    "university": "Schwartz, Terry and Gray University",
+    "destination": "Australia",
+    "img": "/university/university-86.jpg",
+    "internationalStudents": "1086",
+    "costOfLiving": "AUD963",
+    "ranking": "86",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.schwartzterryandgrayuniversity.edu"
+  },
+  {
+    "id": "87",
+    "university": "Hoover, Mccann and Ryan University",
+    "destination": "Australia",
+    "img": "/university/university-87.jpg",
+    "internationalStudents": "1087",
+    "costOfLiving": "AUD963",
+    "ranking": "87",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hoovermccannandryanuniversity.edu"
+  },
+  {
+    "id": "88",
+    "university": "Massey-Smith University",
+    "destination": "Australia",
+    "img": "/university/university-88.jpg",
+    "internationalStudents": "1088",
+    "costOfLiving": "AUD963",
+    "ranking": "88",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.masseysmithuniversity.edu"
+  },
+  {
+    "id": "89",
+    "university": "Hill-Cameron University",
+    "destination": "Australia",
+    "img": "/university/university-89.jpg",
+    "internationalStudents": "1089",
+    "costOfLiving": "AUD963",
+    "ranking": "89",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hillcameronuniversity.edu"
+  },
+  {
+    "id": "90",
+    "university": "Perry Inc University",
+    "destination": "Australia",
+    "img": "/university/university-90.jpg",
+    "internationalStudents": "1090",
+    "costOfLiving": "AUD963",
+    "ranking": "90",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.perryincuniversity.edu"
+  },
+  {
+    "id": "91",
+    "university": "Hayes-Perry University",
+    "destination": "Australia",
+    "img": "/university/university-91.jpg",
+    "internationalStudents": "1091",
+    "costOfLiving": "AUD963",
+    "ranking": "91",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hayesperryuniversity.edu"
+  },
+  {
+    "id": "92",
+    "university": "Lewis LLC University",
+    "destination": "Australia",
+    "img": "/university/university-92.jpg",
+    "internationalStudents": "1092",
+    "costOfLiving": "AUD963",
+    "ranking": "92",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.lewisllcuniversity.edu"
+  },
+  {
+    "id": "93",
+    "university": "Cannon, Sullivan and Smith University",
+    "destination": "Australia",
+    "img": "/university/university-93.jpg",
+    "internationalStudents": "1093",
+    "costOfLiving": "AUD963",
+    "ranking": "93",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.cannonsullivanandsmithuniversity.edu"
+  },
+  {
+    "id": "94",
+    "university": "Sullivan, Castillo and Hatfield University",
+    "destination": "Australia",
+    "img": "/university/university-94.jpg",
+    "internationalStudents": "1094",
+    "costOfLiving": "AUD963",
+    "ranking": "94",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.sullivancastilloandhatfielduniversity.edu"
+  },
+  {
+    "id": "95",
+    "university": "Coffey Inc University",
+    "destination": "Australia",
+    "img": "/university/university-95.jpg",
+    "internationalStudents": "1095",
+    "costOfLiving": "AUD963",
+    "ranking": "95",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.coffeyincuniversity.edu"
+  },
+  {
+    "id": "96",
+    "university": "Clarke-Lopez University",
+    "destination": "Australia",
+    "img": "/university/university-96.jpg",
+    "internationalStudents": "1096",
+    "costOfLiving": "AUD963",
+    "ranking": "96",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.clarkelopezuniversity.edu"
+  },
+  {
+    "id": "97",
+    "university": "Myers-Levine University",
+    "destination": "Australia",
+    "img": "/university/university-97.jpg",
+    "internationalStudents": "1097",
+    "costOfLiving": "AUD963",
+    "ranking": "97",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.myerslevineuniversity.edu"
+  },
+  {
+    "id": "98",
+    "university": "Lee, Howard and Lester University",
+    "destination": "Australia",
+    "img": "/university/university-98.jpg",
+    "internationalStudents": "1098",
+    "costOfLiving": "AUD963",
+    "ranking": "98",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.leehowardandlesteruniversity.edu"
+  },
+  {
+    "id": "99",
+    "university": "Johnson, Morgan and Townsend University",
+    "destination": "Australia",
+    "img": "/university/university-99.jpg",
+    "internationalStudents": "1099",
+    "costOfLiving": "AUD963",
+    "ranking": "99",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.johnsonmorganandtownsenduniversity.edu"
+  },
+  {
+    "id": "100",
+    "university": "Manning, Baker and Cruz University",
+    "destination": "Australia",
+    "img": "/university/university-100.jpg",
+    "internationalStudents": "1100",
+    "costOfLiving": "AUD963",
+    "ranking": "0",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.manningbakerandcruzuniversity.edu"
+  },
+  {
+    "id": "101",
+    "university": "Walton, Stone and Armstrong University",
+    "destination": "Australia",
+    "img": "/university/university-101.jpg",
+    "internationalStudents": "1101",
+    "costOfLiving": "AUD963",
+    "ranking": "1",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.waltonstoneandarmstronguniversity.edu"
+  },
+  {
+    "id": "102",
+    "university": "Norris Group University",
+    "destination": "Australia",
+    "img": "/university/university-102.jpg",
+    "internationalStudents": "1102",
+    "costOfLiving": "AUD963",
+    "ranking": "2",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.norrisgroupuniversity.edu"
+  },
+  {
+    "id": "103",
+    "university": "Ponce Inc University",
+    "destination": "Australia",
+    "img": "/university/university-103.jpg",
+    "internationalStudents": "1103",
+    "costOfLiving": "AUD963",
+    "ranking": "3",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.ponceincuniversity.edu"
+  },
+  {
+    "id": "104",
+    "university": "Lam-Rodriguez University",
+    "destination": "Australia",
+    "img": "/university/university-104.jpg",
+    "internationalStudents": "1104",
+    "costOfLiving": "AUD963",
+    "ranking": "4",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.lamrodriguezuniversity.edu"
+  },
+  {
+    "id": "105",
+    "university": "Cowan Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-105.jpg",
+    "internationalStudents": "1105",
+    "costOfLiving": "AUD963",
+    "ranking": "5",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.cowanltduniversity.edu"
+  },
+  {
+    "id": "106",
+    "university": "Gentry Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-106.jpg",
+    "internationalStudents": "1106",
+    "costOfLiving": "AUD963",
+    "ranking": "6",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.gentryltduniversity.edu"
+  },
+  {
+    "id": "107",
+    "university": "Tucker-Villarreal University",
+    "destination": "Australia",
+    "img": "/university/university-107.jpg",
+    "internationalStudents": "1107",
+    "costOfLiving": "AUD963",
+    "ranking": "7",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.tuckervillarrealuniversity.edu"
+  },
+  {
+    "id": "108",
+    "university": "Sullivan Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-108.jpg",
+    "internationalStudents": "1108",
+    "costOfLiving": "AUD963",
+    "ranking": "8",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.sullivanltduniversity.edu"
+  },
+  {
+    "id": "109",
+    "university": "Jenkins PLC University",
+    "destination": "Australia",
+    "img": "/university/university-109.jpg",
+    "internationalStudents": "1109",
+    "costOfLiving": "AUD963",
+    "ranking": "9",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jenkinsplcuniversity.edu"
+  },
+  {
+    "id": "110",
+    "university": "Mclean Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-110.jpg",
+    "internationalStudents": "1110",
+    "costOfLiving": "AUD963",
+    "ranking": "10",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mcleanltduniversity.edu"
+  },
+  {
+    "id": "111",
+    "university": "Wells, Cortez and Olson University",
+    "destination": "Australia",
+    "img": "/university/university-111.jpg",
+    "internationalStudents": "1111",
+    "costOfLiving": "AUD963",
+    "ranking": "11",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wellscortezandolsonuniversity.edu"
+  },
+  {
+    "id": "112",
+    "university": "Hernandez-Adams University",
+    "destination": "Australia",
+    "img": "/university/university-112.jpg",
+    "internationalStudents": "1112",
+    "costOfLiving": "AUD963",
+    "ranking": "12",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hernandezadamsuniversity.edu"
+  },
+  {
+    "id": "113",
+    "university": "Moore, Moore and Brown University",
+    "destination": "Australia",
+    "img": "/university/university-113.jpg",
+    "internationalStudents": "1113",
+    "costOfLiving": "AUD963",
+    "ranking": "13",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mooremooreandbrownuniversity.edu"
+  },
+  {
+    "id": "114",
+    "university": "Lewis, Ramirez and Lopez University",
+    "destination": "Australia",
+    "img": "/university/university-114.jpg",
+    "internationalStudents": "1114",
+    "costOfLiving": "AUD963",
+    "ranking": "14",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.lewisramirezandlopezuniversity.edu"
+  },
+  {
+    "id": "115",
+    "university": "Walker Group University",
+    "destination": "Australia",
+    "img": "/university/university-115.jpg",
+    "internationalStudents": "1115",
+    "costOfLiving": "AUD963",
+    "ranking": "15",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.walkergroupuniversity.edu"
+  },
+  {
+    "id": "116",
+    "university": "Brown Group University",
+    "destination": "Australia",
+    "img": "/university/university-116.jpg",
+    "internationalStudents": "1116",
+    "costOfLiving": "AUD963",
+    "ranking": "16",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.browngroupuniversity.edu"
+  },
+  {
+    "id": "117",
+    "university": "Baker, Terry and Moss University",
+    "destination": "Australia",
+    "img": "/university/university-117.jpg",
+    "internationalStudents": "1117",
+    "costOfLiving": "AUD963",
+    "ranking": "17",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.bakerterryandmossuniversity.edu"
+  },
+  {
+    "id": "118",
+    "university": "Scott Inc University",
+    "destination": "Australia",
+    "img": "/university/university-118.jpg",
+    "internationalStudents": "1118",
+    "costOfLiving": "AUD963",
+    "ranking": "18",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.scottincuniversity.edu"
+  },
+  {
+    "id": "119",
+    "university": "Costa, Carr and Smith University",
+    "destination": "Australia",
+    "img": "/university/university-119.jpg",
+    "internationalStudents": "1119",
+    "costOfLiving": "AUD963",
+    "ranking": "19",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.costacarrandsmithuniversity.edu"
+  },
+  {
+    "id": "120",
+    "university": "Richards, Young and Harris University",
+    "destination": "Australia",
+    "img": "/university/university-120.jpg",
+    "internationalStudents": "1120",
+    "costOfLiving": "AUD963",
+    "ranking": "20",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.richardsyoungandharrisuniversity.edu"
+  },
+  {
+    "id": "121",
+    "university": "Sutton-Peterson University",
+    "destination": "Australia",
+    "img": "/university/university-121.jpg",
+    "internationalStudents": "1121",
+    "costOfLiving": "AUD963",
+    "ranking": "21",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.suttonpetersonuniversity.edu"
+  },
+  {
+    "id": "122",
+    "university": "Christian Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-122.jpg",
+    "internationalStudents": "1122",
+    "costOfLiving": "AUD963",
+    "ranking": "22",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.christianltduniversity.edu"
+  },
+  {
+    "id": "123",
+    "university": "Smith PLC University",
+    "destination": "Australia",
+    "img": "/university/university-123.jpg",
+    "internationalStudents": "1123",
+    "costOfLiving": "AUD963",
+    "ranking": "23",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.smithplcuniversity.edu"
+  },
+  {
+    "id": "124",
+    "university": "Knox, Williams and Barber University",
+    "destination": "Australia",
+    "img": "/university/university-124.jpg",
+    "internationalStudents": "1124",
+    "costOfLiving": "AUD963",
+    "ranking": "24",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.knoxwilliamsandbarberuniversity.edu"
+  },
+  {
+    "id": "125",
+    "university": "Perez, Bridges and Lopez University",
+    "destination": "Australia",
+    "img": "/university/university-125.jpg",
+    "internationalStudents": "1125",
+    "costOfLiving": "AUD963",
+    "ranking": "25",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.perezbridgesandlopezuniversity.edu"
+  },
+  {
+    "id": "126",
+    "university": "Hoffman PLC University",
+    "destination": "Australia",
+    "img": "/university/university-126.jpg",
+    "internationalStudents": "1126",
+    "costOfLiving": "AUD963",
+    "ranking": "26",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hoffmanplcuniversity.edu"
+  },
+  {
+    "id": "127",
+    "university": "Mills-Archer University",
+    "destination": "Australia",
+    "img": "/university/university-127.jpg",
+    "internationalStudents": "1127",
+    "costOfLiving": "AUD963",
+    "ranking": "27",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.millsarcheruniversity.edu"
+  },
+  {
+    "id": "128",
+    "university": "Gentry-Morales University",
+    "destination": "Australia",
+    "img": "/university/university-128.jpg",
+    "internationalStudents": "1128",
+    "costOfLiving": "AUD963",
+    "ranking": "28",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.gentrymoralesuniversity.edu"
+  },
+  {
+    "id": "129",
+    "university": "Peck, Oconnell and Moore University",
+    "destination": "Australia",
+    "img": "/university/university-129.jpg",
+    "internationalStudents": "1129",
+    "costOfLiving": "AUD963",
+    "ranking": "29",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.peckoconnellandmooreuniversity.edu"
+  },
+  {
+    "id": "130",
+    "university": "Cruz Group University",
+    "destination": "Australia",
+    "img": "/university/university-130.jpg",
+    "internationalStudents": "1130",
+    "costOfLiving": "AUD963",
+    "ranking": "30",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.cruzgroupuniversity.edu"
+  },
+  {
+    "id": "131",
+    "university": "Mcmillan Inc University",
+    "destination": "Australia",
+    "img": "/university/university-131.jpg",
+    "internationalStudents": "1131",
+    "costOfLiving": "AUD963",
+    "ranking": "31",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mcmillanincuniversity.edu"
+  },
+  {
+    "id": "132",
+    "university": "Wyatt Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-132.jpg",
+    "internationalStudents": "1132",
+    "costOfLiving": "AUD963",
+    "ranking": "32",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wyattltduniversity.edu"
+  },
+  {
+    "id": "133",
+    "university": "Wilson-Young University",
+    "destination": "Australia",
+    "img": "/university/university-133.jpg",
+    "internationalStudents": "1133",
+    "costOfLiving": "AUD963",
+    "ranking": "33",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.wilsonyounguniversity.edu"
+  },
+  {
+    "id": "134",
+    "university": "Brown, Boyd and Sullivan University",
+    "destination": "Australia",
+    "img": "/university/university-134.jpg",
+    "internationalStudents": "1134",
+    "costOfLiving": "AUD963",
+    "ranking": "34",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.brownboydandsullivanuniversity.edu"
+  },
+  {
+    "id": "135",
+    "university": "Jones-Davis University",
+    "destination": "Australia",
+    "img": "/university/university-135.jpg",
+    "internationalStudents": "1135",
+    "costOfLiving": "AUD963",
+    "ranking": "35",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jonesdavisuniversity.edu"
+  },
+  {
+    "id": "136",
+    "university": "Joseph PLC University",
+    "destination": "Australia",
+    "img": "/university/university-136.jpg",
+    "internationalStudents": "1136",
+    "costOfLiving": "AUD963",
+    "ranking": "36",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.josephplcuniversity.edu"
+  },
+  {
+    "id": "137",
+    "university": "Blevins, Reeves and Stephenson University",
+    "destination": "Australia",
+    "img": "/university/university-137.jpg",
+    "internationalStudents": "1137",
+    "costOfLiving": "AUD963",
+    "ranking": "37",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.blevinsreevesandstephensonuniversity.edu"
+  },
+  {
+    "id": "138",
+    "university": "Martinez-Jones University",
+    "destination": "Australia",
+    "img": "/university/university-138.jpg",
+    "internationalStudents": "1138",
+    "costOfLiving": "AUD963",
+    "ranking": "38",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.martinezjonesuniversity.edu"
+  },
+  {
+    "id": "139",
+    "university": "Peterson Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-139.jpg",
+    "internationalStudents": "1139",
+    "costOfLiving": "AUD963",
+    "ranking": "39",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.petersonltduniversity.edu"
+  },
+  {
+    "id": "140",
+    "university": "Cooper, Daniels and Carter University",
+    "destination": "Australia",
+    "img": "/university/university-140.jpg",
+    "internationalStudents": "1140",
+    "costOfLiving": "AUD963",
+    "ranking": "40",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.cooperdanielsandcarteruniversity.edu"
+  },
+  {
+    "id": "141",
+    "university": "Brown-Wood University",
+    "destination": "Australia",
+    "img": "/university/university-141.jpg",
+    "internationalStudents": "1141",
+    "costOfLiving": "AUD963",
+    "ranking": "41",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.brownwooduniversity.edu"
+  },
+  {
+    "id": "142",
+    "university": "Hess-Davis University",
+    "destination": "Australia",
+    "img": "/university/university-142.jpg",
+    "internationalStudents": "1142",
+    "costOfLiving": "AUD963",
+    "ranking": "42",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hessdavisuniversity.edu"
+  },
+  {
+    "id": "143",
+    "university": "Hubbard, Mora and Mckinney University",
+    "destination": "Australia",
+    "img": "/university/university-143.jpg",
+    "internationalStudents": "1143",
+    "costOfLiving": "AUD963",
+    "ranking": "43",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.hubbardmoraandmckinneyuniversity.edu"
+  },
+  {
+    "id": "144",
+    "university": "Roberts Group University",
+    "destination": "Australia",
+    "img": "/university/university-144.jpg",
+    "internationalStudents": "1144",
+    "costOfLiving": "AUD963",
+    "ranking": "44",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.robertsgroupuniversity.edu"
+  },
+  {
+    "id": "145",
+    "university": "Peterson-Clark University",
+    "destination": "Australia",
+    "img": "/university/university-145.jpg",
+    "internationalStudents": "1145",
+    "costOfLiving": "AUD963",
+    "ranking": "45",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.petersonclarkuniversity.edu"
+  },
+  {
+    "id": "146",
+    "university": "Jones-Quinn University",
+    "destination": "Australia",
+    "img": "/university/university-146.jpg",
+    "internationalStudents": "1146",
+    "costOfLiving": "AUD963",
+    "ranking": "46",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.jonesquinnuniversity.edu"
+  },
+  {
+    "id": "147",
+    "university": "Dixon Ltd University",
+    "destination": "Australia",
+    "img": "/university/university-147.jpg",
+    "internationalStudents": "1147",
+    "costOfLiving": "AUD963",
+    "ranking": "47",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.dixonltduniversity.edu"
+  },
+  {
+    "id": "148",
+    "university": "Mitchell, Walls and Cervantes University",
+    "destination": "Australia",
+    "img": "/university/university-148.jpg",
+    "internationalStudents": "1148",
+    "costOfLiving": "AUD963",
+    "ranking": "48",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.mitchellwallsandcervantesuniversity.edu"
+  },
+  {
+    "id": "149",
+    "university": "Young, Palmer and Brown University",
+    "destination": "Australia",
+    "img": "/university/university-149.jpg",
+    "internationalStudents": "1149",
+    "costOfLiving": "AUD963",
+    "ranking": "49",
+    "overView": [
+      "This university is a leading university offering a wide range of programs to domestic and international students.",
+      "Located in a vibrant setting, it provides excellent academic and research facilities.",
+      "The campus is known for its strong community, student support services, and focus on innovation and industry connections."
+    ],
+    "site": "https://www.youngpalmerandbrownuniversity.edu"
+  }
+]

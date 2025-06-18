@@ -1,0 +1,132 @@
+header {
+    width: 100%;
+    padding-block: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.377);
+    position: relative;
+    z-index: 99;
+    background-color: #fff;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.logo {
+    height: 30px;
+}
+
+header nav {
+    display: flex;
+    column-gap: 40px;
+    
+}
+
+.dropdown {
+    position: relative;
+}
+
+.dropdown ul {
+    max-height: 0px;
+  position: absolute;
+  top: 220%;
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: max-content;
+  transition: max-height 0.5s;
+  overflow: hidden;
+  background-color: #eeecec;
+  padding-inline: 20px;
+}
+
+.dropdown ul li {
+   text-align: center;
+   margin-block: 20px;
+}
+
+
+.dropdown::after {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #e82726;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%) scaleX(0);
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+.dropdown:hover::after {
+    transform: translateX(-50%) scaleX(1);
+}
+
+
+.toggle-container {
+    display: none;
+    position: relative;
+    background-color: #e82726;
+    height: 20px;
+    width: 20px;
+}
+
+.toggle-container i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: none;
+}
+
+.toggle-container i.active {
+    display: block;
+}
+
+
+@media screen and (max-width:992px) {
+    .toggle-container{
+        display: block;
+    }
+    
+    header nav {
+        position: absolute;
+        flex-direction: column;
+        background-color: bisque;
+        top: 100%;
+        left: 0;
+        padding: 40px;
+        text-align: center;
+        width: 100%;
+        display: none;
+        
+    }
+    
+    header nav.active {
+        display: flex;
+        row-gap: 20px;
+        
+    }
+
+    header nav.active ul li {
+        margin-block: 0;
+        margin-top: 10px;
+    }
+
+    header nav div {
+        width: fit-content;
+        margin-inline: auto;
+        
+    }
+    .dropdown ul {
+        position: relative;
+        
+    }
+}
+
+.dropdown:hover ul{
+    max-height: 400px;
+}

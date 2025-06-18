@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "course": "Health Sciences",
+    "studyLevel": "Undergraduate",
+    "destination": "Canada",
+    "title": "Bachelor of Science in Health Sciences",
+    "university": "BISHOP'S UNIVERSITY",
+    "qualification": "Bachelor Degree",
+    "location":"Chatham, Canada",
+    "fees": "CAD29602 (2025)",
+    "duration": "8 Semester(s)",
+    "nextIntake": "15 September 2025",
+    "entryScore": "6.5 IELTS",
+    "aboutCourse": [
+      "The Bachelor of Science (B.Sc.) and the Bachelor of Arts (B.A.). They also must choose between two concentrations: Health Sciences, and Biodiversity and Ecology. Upper-year B.Sc. students also have the opportunity to transfer into the Honours program in their final year if they meet certain requirements. The B.Sc. degree requires a strong grounding in the core sciences (math, physics, and chemistry). The B.Sc. is the best option if you intend to apply to graduate (M.Sc. or Ph.D.) or professional (e.g. medicine or physiotherapy) programs. Students with a strong interest in biology but not a strong grounding in the basic sciences thrive in the B.A. Biology program. The B.A is much more flexible than the B.Sc., and many students pair it with a second B.A. major. For example, a student interested in governmental health policy might choose a B.A. in Biology (Health Science) and a B.A. in Political Science, whereas an environmentally-oriented student might pair a B.A. Biology (Biodiversity and Ecology) with a B.A. in Environmental Studies."
+    ],
+    "startDates": [
+      { "intack": "Fall (September), 2025", "location": "Sherbrooke" },
+      { "intack": "Winter (January), 2026", "location": "Sherbrooke" },
+      { "intack": "Winter (January), 2027", "location": "Sherbrooke" }
+    ],
+    "howToApply": [
+      {
+        "head": "Entry requirements for Bishop's University",
+        "content": "All applicants must provide proof of English language proficiency regardless of citizenship/immigration status in Canada. Please identify the entry below that best describes your situation in order to determine what, if any, additional supporting documentation you must provide with your application for admission Completed / completing at least three years of instruction at an accredited secondary institution, recognized by Bishop’s University, where English or French is the primary language of instruction High school transcript, showing predicted or anticipated IB results, including current mid-term grades if possible (or final IB Diploma results if you have already graduated). IB Diploma Program - Completed IB Diploma, Minimum predicted IB Diploma score of 30, not including EE/TOK/CAS bonus points IELTS academic test, minimum overall score of 6.5 with no component score below 6.0.TOEFL minimum overall score of 90 (internet-based) with no component score below 20,Duolingo English Test (DET) minimum score of 115 with no sub-score under 90"
+      },
+      { "head": "Application Deadline", "content": "" }
+    ],
+    "reviews":[]
+    
+  }
+  
+]

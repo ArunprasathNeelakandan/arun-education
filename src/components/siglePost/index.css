@@ -1,0 +1,100 @@
+.sigle-post-bg .banner{
+    background:linear-gradient(to right, rgba(0, 0, 0, 0.815), rgba(0, 0, 0, 0.318)) ,url(/sigle-post-banner.png);
+    background-position: 100% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: antiquewhite;
+    min-height: 300px;
+    display: flex;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    color: #fff;
+    box-shadow: 0 2px 3px black;
+}
+
+@media screen and (min-width: 992px) {
+    .sigle-post-bg .banner {
+        background:url(/sigle-post-banner.png);
+        background-position: 90% 35%;
+        background-repeat: no-repeat;
+        color: #000;
+        background-size: cover
+    }
+
+    .sigle-post-bg .banner p {
+        width: 80%;
+    }
+
+    .sigle-post-bg .banner h1 {
+        width: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sigle-post-bg .head-container {
+    width: 100%;
+    align-items: center;
+}
+
+.show-controle-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 30px;
+}
+
+.show-controle-container i {
+    position: absolute;
+    font-size: 25px;
+}
+
+.main-cart hr {
+    margin-block: 10px;
+}
+
+.intack-table {
+    border-collapse: collapse;
+    margin-block: 20px;
+}
+
+.intack-table thead td {
+    font-weight: 600;
+}
+
+.intack-table td{
+    border: 1px solid;
+    padding: var(--padding);
+}
+
+
+@media screen and (max-width: 767px) {
+
+  
+
+
+    .main-content .container > .flex-container {
+        flex-direction: column;
+    }
+
+    .main-content .flex-container .sub-cart, .main-content .flex-container .main-cart {
+        width: 100%;
+    }
+    
+}
+

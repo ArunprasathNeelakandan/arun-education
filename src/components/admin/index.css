@@ -1,0 +1,12 @@
+.admin-add-input-wrapper {
+    flex-wrap: wrap;
+    row-gap: 40px !important;
+}
+
+.add-course-list-wrapper {
+    flex-wrap: wrap;
+}
+
+.add-course-list-wrapper label{
+    margin-left: 20px;
+}

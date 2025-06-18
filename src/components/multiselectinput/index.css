@@ -1,0 +1,41 @@
+
+.multi-select-input-container {
+  width: 100%;
+  position: relative;
+}
+
+.multi-select-input {
+  padding: var(--padding);
+  max-height: 30px;
+  border: 1px solid;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-bottom: 1px dashed red;
+  background-color: inherit;
+}
+
+.multi-select-option-container {
+  max-height: 250px;
+  position: absolute;
+  width: 100%;
+  overflow: auto;
+  z-index: 2;
+  background-color: #ffffff;
+  display: none;
+}
+
+.multi-select-option-container div {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+  padding-inline: 14px;
+  width: 100%;
+  padding: 10px 20px 0px 10px;
+}
+
+.multi-select-input-container:focus-within .multi-select-option-container,  .multi-select-input-container:hover .multi-select-option-container{
+  display: block;
+}
+
+

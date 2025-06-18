@@ -1,0 +1,34 @@
+{
+  "formHeading": ["Courses"],
+
+  "courses": ["Health Sciences", "Health and Medicine","Business","Engineering","Teaching and Education"],
+  "studyLevel": ["Undergraduate","Postgraduate","Doctorate"],
+  "destination": [
+    "Australia",
+    "Canada",
+    "Ireland",
+    "New Zealand",
+    "United Kingdom",
+    "United States"
+  ],
+
+  "whenStart": [
+    "now",
+    "3 Months",
+    "6 Months",
+    "12 Months",
+    "More than 12 Months",
+    "Not sure yet"
+  ],
+  "fundForEducation": [
+    "Self-Funded",
+    "Parents",
+    "Seeking Scholarship",
+    "Seeking Government Scholarship",
+    "Have Government Scholarship",
+    "Bank Loan",
+    "Other",
+    "Employer Scholarship"
+  ]
+}
+
